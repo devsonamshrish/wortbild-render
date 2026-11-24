@@ -1,0 +1,695 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.4,
+   "end": 3.12,
+   "lines": [
+    "s01"
+   ]
+  },
+  {
+   "key": "loop",
+   "word": null,
+   "start": 3.12,
+   "end": 6.38,
+   "lines": [
+    "s02"
+   ]
+  },
+  {
+   "key": "tasse",
+   "word": "die Tasse",
+   "start": 6.38,
+   "end": 12.89,
+   "lines": [
+    "s03",
+    "s04"
+   ]
+  },
+  {
+   "key": "becher",
+   "word": "der Becher",
+   "start": 12.89,
+   "end": 20.42,
+   "lines": [
+    "s05",
+    "s06"
+   ]
+  },
+  {
+   "key": "pfandmarke",
+   "word": "die Pfandmarke",
+   "start": 20.42,
+   "end": 28.93,
+   "lines": [
+    "s07",
+    "s08"
+   ]
+  },
+  {
+   "key": "gluehbier",
+   "word": "das Glühbier",
+   "start": 28.93,
+   "end": 38.33,
+   "lines": [
+    "s09",
+    "s10"
+   ]
+  },
+  {
+   "key": "payoff",
+   "word": null,
+   "start": 38.33,
+   "end": 44.11,
+   "lines": [
+    "s11"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 44.11,
+   "end": 46.45,
+   "lines": [
+    "s12"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Der Glühwein. Und Glühbier?",
+   "start": 0.4,
+   "end": 2.82,
+   "words": [
+    {
+     "w": "Der",
+     "s": 0.4,
+     "e": 0.56,
+     "score": 0.695
+    },
+    {
+     "w": "Glühwein",
+     "s": 0.56,
+     "e": 1.32,
+     "score": 1.0
+    },
+    {
+     "w": "Und",
+     "s": 1.32,
+     "e": 1.68,
+     "score": 0.997
+    },
+    {
+     "w": "Glühbier",
+     "s": 1.68,
+     "e": 2.52,
+     "score": 0.996
+    }
+   ]
+  },
+  "s02": {
+   "text": "Die Antwort kommt am Ende. Erst drei Runden.",
+   "start": 3.12,
+   "end": 6.18,
+   "words": [
+    {
+     "w": "Die",
+     "s": 3.12,
+     "e": 3.26,
+     "score": 0.999
+    },
+    {
+     "w": "Antwort",
+     "s": 3.26,
+     "e": 3.58,
+     "score": 1.0
+    },
+    {
+     "w": "kommt",
+     "s": 3.58,
+     "e": 3.9,
+     "score": 0.999
+    },
+    {
+     "w": "am",
+     "s": 3.9,
+     "e": 4.18,
+     "score": 1.0
+    },
+    {
+     "w": "Ende",
+     "s": 4.18,
+     "e": 4.58,
+     "score": 1.0
+    },
+    {
+     "w": "Erst",
+     "s": 4.72,
+     "e": 5.22,
+     "score": 0.457
+    },
+    {
+     "w": "drei",
+     "s": 5.22,
+     "e": 5.44,
+     "score": 0.807
+    },
+    {
+     "w": "Runden",
+     "s": 5.44,
+     "e": 5.88,
+     "score": 0.963
+    }
+   ]
+  },
+  "s03": {
+   "text": "Erste Runde: Tasse.",
+   "start": 6.38,
+   "end": 8.04,
+   "words": [
+    {
+     "w": "Erste",
+     "s": 6.38,
+     "e": 6.8,
+     "score": 0.974
+    },
+    {
+     "w": "Runde",
+     "s": 6.8,
+     "e": 7.28,
+     "score": 0.856
+    },
+    {
+     "w": "Tasse",
+     "s": 7.28,
+     "e": 7.74,
+     "score": 0.991
+    }
+   ]
+  },
+  "s04": {
+   "text": "Die Tasse ist so heiß, dass ich sie kaum halten kann.",
+   "start": 9.14,
+   "end": 12.74,
+   "words": [
+    {
+     "w": "Die",
+     "s": 9.14,
+     "e": 9.28,
+     "score": 0.893
+    },
+    {
+     "w": "Tasse",
+     "s": 9.28,
+     "e": 9.62,
+     "score": 0.999
+    },
+    {
+     "w": "ist",
+     "s": 9.62,
+     "e": 9.76,
+     "score": 1.0
+    },
+    {
+     "w": "so",
+     "s": 9.76,
+     "e": 10.0,
+     "score": 1.0
+    },
+    {
+     "w": "heiß",
+     "s": 10.0,
+     "e": 10.38,
+     "score": 1.0
+    },
+    {
+     "w": "dass",
+     "s": 10.52,
+     "e": 10.94,
+     "score": 0.983
+    },
+    {
+     "w": "ich",
+     "s": 10.94,
+     "e": 11.12,
+     "score": 1.0
+    },
+    {
+     "w": "sie",
+     "s": 11.12,
+     "e": 11.3,
+     "score": 0.999
+    },
+    {
+     "w": "kaum",
+     "s": 11.3,
+     "e": 11.72,
+     "score": 1.0
+    },
+    {
+     "w": "halten",
+     "s": 11.72,
+     "e": 12.08,
+     "score": 1.0
+    },
+    {
+     "w": "kann",
+     "s": 12.08,
+     "e": 12.44,
+     "score": 1.0
+    }
+   ]
+  },
+  "s05": {
+   "text": "Zweite Runde: Becher.",
+   "start": 12.89,
+   "end": 14.63,
+   "words": [
+    {
+     "w": "Zweite",
+     "s": 12.89,
+     "e": 13.31,
+     "score": 0.92
+    },
+    {
+     "w": "Runde",
+     "s": 13.31,
+     "e": 13.75,
+     "score": 0.982
+    },
+    {
+     "w": "Becher",
+     "s": 13.75,
+     "e": 14.33,
+     "score": 0.796
+    }
+   ]
+  },
+  "s06": {
+   "text": "Der Becher. Manche Stände geben den Punsch im Becher statt in der Tasse.",
+   "start": 15.73,
+   "end": 20.27,
+   "words": [
+    {
+     "w": "Der",
+     "s": 15.73,
+     "e": 15.89,
+     "score": 0.956
+    },
+    {
+     "w": "Becher",
+     "s": 15.89,
+     "e": 16.29,
+     "score": 1.0
+    },
+    {
+     "w": "Manche",
+     "s": 16.33,
+     "e": 17.01,
+     "score": 1.0
+    },
+    {
+     "w": "Stände",
+     "s": 17.01,
+     "e": 17.43,
+     "score": 0.999
+    },
+    {
+     "w": "geben",
+     "s": 17.43,
+     "e": 17.67,
+     "score": 0.999
+    },
+    {
+     "w": "den",
+     "s": 17.67,
+     "e": 18.01,
+     "score": 0.996
+    },
+    {
+     "w": "Punsch",
+     "s": 18.01,
+     "e": 18.49,
+     "score": 0.974
+    },
+    {
+     "w": "im",
+     "s": 18.49,
+     "e": 18.61,
+     "score": 1.0
+    },
+    {
+     "w": "Becher",
+     "s": 18.61,
+     "e": 19.01,
+     "score": 1.0
+    },
+    {
+     "w": "statt",
+     "s": 19.01,
+     "e": 19.21,
+     "score": 1.0
+    },
+    {
+     "w": "in",
+     "s": 19.21,
+     "e": 19.47,
+     "score": 1.0
+    },
+    {
+     "w": "der",
+     "s": 19.47,
+     "e": 19.59,
+     "score": 1.0
+    },
+    {
+     "w": "Tasse",
+     "s": 19.59,
+     "e": 19.97,
+     "score": 1.0
+    }
+   ]
+  },
+  "s07": {
+   "text": "Dritte Runde: Pfandmarke.",
+   "start": 20.42,
+   "end": 22.52,
+   "words": [
+    {
+     "w": "Dritte",
+     "s": 20.42,
+     "e": 20.8,
+     "score": 0.9
+    },
+    {
+     "w": "Runde",
+     "s": 20.8,
+     "e": 21.22,
+     "score": 1.0
+    },
+    {
+     "w": "Pfandmarke",
+     "s": 21.22,
+     "e": 22.22,
+     "score": 0.995
+    }
+   ]
+  },
+  "s08": {
+   "text": "Die Pfandmarke. Heb die Pfandmarke gut auf, sonst gibt es nichts zurück.",
+   "start": 23.62,
+   "end": 28.78,
+   "words": [
+    {
+     "w": "Die",
+     "s": 23.62,
+     "e": 23.74,
+     "score": 0.915
+    },
+    {
+     "w": "Pfandmarke",
+     "s": 23.74,
+     "e": 24.62,
+     "score": 0.998
+    },
+    {
+     "w": "Heb",
+     "s": 24.78,
+     "e": 25.26,
+     "score": 0.961
+    },
+    {
+     "w": "die",
+     "s": 25.26,
+     "e": 25.5,
+     "score": 0.97
+    },
+    {
+     "w": "Pfandmarke",
+     "s": 25.5,
+     "e": 26.22,
+     "score": 1.0
+    },
+    {
+     "w": "gut",
+     "s": 26.22,
+     "e": 26.38,
+     "score": 1.0
+    },
+    {
+     "w": "auf",
+     "s": 26.38,
+     "e": 26.72,
+     "score": 1.0
+    },
+    {
+     "w": "sonst",
+     "s": 26.9,
+     "e": 27.34,
+     "score": 1.0
+    },
+    {
+     "w": "gibt",
+     "s": 27.34,
+     "e": 27.6,
+     "score": 0.999
+    },
+    {
+     "w": "es",
+     "s": 27.6,
+     "e": 27.84,
+     "score": 1.0
+    },
+    {
+     "w": "nichts",
+     "s": 27.84,
+     "e": 28.06,
+     "score": 1.0
+    },
+    {
+     "w": "zurück",
+     "s": 28.06,
+     "e": 28.48,
+     "score": 1.0
+    }
+   ]
+  },
+  "s09": {
+   "text": "Jetzt die Frage vom Anfang: Glühbier.",
+   "start": 28.93,
+   "end": 32.15,
+   "words": [
+    {
+     "w": "Jetzt",
+     "s": 28.93,
+     "e": 29.21,
+     "score": 0.979
+    },
+    {
+     "w": "die",
+     "s": 29.21,
+     "e": 29.57,
+     "score": 0.997
+    },
+    {
+     "w": "Frage",
+     "s": 29.57,
+     "e": 29.91,
+     "score": 0.998
+    },
+    {
+     "w": "vom",
+     "s": 29.91,
+     "e": 30.15,
+     "score": 0.997
+    },
+    {
+     "w": "Anfang",
+     "s": 30.15,
+     "e": 30.59,
+     "score": 0.999
+    },
+    {
+     "w": "Glühbier",
+     "s": 31.23,
+     "e": 31.85,
+     "score": 0.83
+    }
+   ]
+  },
+  "s10": {
+   "text": "Das Glühbier! Probier mal Glühbier, das gibt es nicht an jedem Stand.",
+   "start": 33.55,
+   "end": 38.13,
+   "words": [
+    {
+     "w": "Das",
+     "s": 33.55,
+     "e": 33.71,
+     "score": 0.971
+    },
+    {
+     "w": "Glühbier",
+     "s": 33.71,
+     "e": 34.49,
+     "score": 0.989
+    },
+    {
+     "w": "Probier",
+     "s": 34.51,
+     "e": 35.07,
+     "score": 0.987
+    },
+    {
+     "w": "mal",
+     "s": 35.07,
+     "e": 35.23,
+     "score": 0.994
+    },
+    {
+     "w": "Glühbier",
+     "s": 35.23,
+     "e": 35.93,
+     "score": 1.0
+    },
+    {
+     "w": "das",
+     "s": 35.97,
+     "e": 36.47,
+     "score": 0.999
+    },
+    {
+     "w": "gibt",
+     "s": 36.47,
+     "e": 36.79,
+     "score": 1.0
+    },
+    {
+     "w": "es",
+     "s": 36.79,
+     "e": 36.91,
+     "score": 1.0
+    },
+    {
+     "w": "nicht",
+     "s": 36.91,
+     "e": 37.11,
+     "score": 1.0
+    },
+    {
+     "w": "an",
+     "s": 37.11,
+     "e": 37.33,
+     "score": 1.0
+    },
+    {
+     "w": "jedem",
+     "s": 37.33,
+     "e": 37.57,
+     "score": 1.0
+    },
+    {
+     "w": "Stand",
+     "s": 37.57,
+     "e": 37.83,
+     "score": 0.998
+    }
+   ]
+  },
+  "s11": {
+   "text": "Der Glühwein, aber das Glühbier! Morgen: mehr vom Weihnachtsmarkt.",
+   "start": 38.33,
+   "end": 43.91,
+   "words": [
+    {
+     "w": "Der",
+     "s": 38.33,
+     "e": 38.49,
+     "score": 0.906
+    },
+    {
+     "w": "Glühwein",
+     "s": 38.49,
+     "e": 39.25,
+     "score": 1.0
+    },
+    {
+     "w": "aber",
+     "s": 39.25,
+     "e": 39.61,
+     "score": 1.0
+    },
+    {
+     "w": "das",
+     "s": 39.61,
+     "e": 39.83,
+     "score": 1.0
+    },
+    {
+     "w": "Glühbier",
+     "s": 39.83,
+     "e": 40.53,
+     "score": 0.999
+    },
+    {
+     "w": "Morgen",
+     "s": 41.25,
+     "e": 41.61,
+     "score": 0.997
+    },
+    {
+     "w": "mehr",
+     "s": 41.61,
+     "e": 42.23,
+     "score": 0.99
+    },
+    {
+     "w": "vom",
+     "s": 42.23,
+     "e": 42.59,
+     "score": 1.0
+    },
+    {
+     "w": "Weihnachtsmarkt",
+     "s": 42.59,
+     "e": 43.61,
+     "score": 1.0
+    }
+   ]
+  },
+  "s12": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 44.11,
+   "end": 46.15,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 44.11,
+     "e": 44.43,
+     "score": 0.994
+    },
+    {
+     "w": "für",
+     "s": 44.43,
+     "e": 44.65,
+     "score": 0.995
+    },
+    {
+     "w": "mehr",
+     "s": 44.65,
+     "e": 44.93,
+     "score": 0.853
+    },
+    {
+     "w": "Wortbilder",
+     "s": 44.93,
+     "e": 45.85,
+     "score": 0.999
+    }
+   ]
+  }
+ },
+ "duration": 46.45
+}

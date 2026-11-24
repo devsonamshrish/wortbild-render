@@ -1,0 +1,27 @@
+# Renders one Wortbild video per pushed job/* branch (job.json says which lane/composition), uploads it as artifact "video".
+name: render
+on:
+  push:
+    branches: ['job/**']
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20, cache: npm }
+      - name: Fonts (free metric-compatible stand-ins for the Windows fonts)
+        run: |
+          echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | sudo debconf-set-selections
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ttf-mscorefonts-installer fonts-crosextra-caladea fonts-urw-base35 fonts-noto-color-emoji > /dev/null
+          curl -sL -o /tmp/selawik.zip https://github.com/microsoft/Selawik/releases/download/1.01/Selawik_Release.zip
+          sudo mkdir -p /usr/share/fonts/truetype/selawik && sudo unzip -qo -j /tmp/selawik.zip '*.ttf' -d /usr/share/fonts/truetype/selawik
+          sudo cp fonts.conf /etc/fonts/local.conf && fc-cache -f > /dev/null
+          fc-match "Segoe UI"; fc-match "Cambria"; fc-match "Palatino Linotype"; fc-match "Arial Black"
+      - run: npm ci --no-audit --no-fund
+      - name: Render
+        run: node render-job.mjs
+      - uses: actions/upload-artifact@v4
+        with: { name: video, path: out.mp4, retention-days: 1, compression-level: 0 }

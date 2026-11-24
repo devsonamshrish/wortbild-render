@@ -1,0 +1,647 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.4,
+   "end": 9.76,
+   "lines": [
+    "s01",
+    "s02",
+    "s03"
+   ]
+  },
+  {
+   "key": "marone",
+   "word": "die Marone",
+   "start": 9.76,
+   "end": 14.43,
+   "lines": [
+    "s04",
+    "s05"
+   ]
+  },
+  {
+   "key": "zuckerwatte",
+   "word": "die Zuckerwatte",
+   "start": 14.43,
+   "end": 19.26,
+   "lines": [
+    "s06",
+    "s07"
+   ]
+  },
+  {
+   "key": "lametta",
+   "word": "das Lametta",
+   "start": 19.26,
+   "end": 25.23,
+   "lines": [
+    "s08",
+    "s09"
+   ]
+  },
+  {
+   "key": "lebkuchen",
+   "word": "der Lebkuchen",
+   "start": 25.23,
+   "end": 31.12,
+   "lines": [
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "key": "herz",
+   "word": "das Lebkuchenherz",
+   "start": 31.12,
+   "end": 42.97,
+   "lines": [
+    "s12",
+    "s13",
+    "s14"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 42.97,
+   "end": 48.88,
+   "lines": [
+    "s15",
+    "s16"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Lebkuchenherz. Der, die oder das?",
+   "start": 0.4,
+   "end": 4.32,
+   "words": [
+    {
+     "w": "Lebkuchenherz",
+     "s": 0.4,
+     "e": 1.64,
+     "score": 0.94
+    },
+    {
+     "w": "Der",
+     "s": 1.64,
+     "e": 2.04,
+     "score": 0.997
+    },
+    {
+     "w": "die",
+     "s": 2.26,
+     "e": 3.08,
+     "score": 1.0
+    },
+    {
+     "w": "oder",
+     "s": 3.08,
+     "e": 3.58,
+     "score": 0.997
+    },
+    {
+     "w": "das",
+     "s": 3.58,
+     "e": 4.02,
+     "score": 0.999
+    }
+   ]
+  },
+  "s02": {
+   "text": "Moment. Das klären wir ganz am Ende.",
+   "start": 4.57,
+   "end": 7.39,
+   "words": [
+    {
+     "w": "Moment",
+     "s": 4.57,
+     "e": 4.85,
+     "score": 0.839
+    },
+    {
+     "w": "Das",
+     "s": 5.11,
+     "e": 5.67,
+     "score": 0.996
+    },
+    {
+     "w": "klären",
+     "s": 5.67,
+     "e": 6.03,
+     "score": 0.996
+    },
+    {
+     "w": "wir",
+     "s": 6.03,
+     "e": 6.23,
+     "score": 1.0
+    },
+    {
+     "w": "ganz",
+     "s": 6.23,
+     "e": 6.51,
+     "score": 0.999
+    },
+    {
+     "w": "am",
+     "s": 6.51,
+     "e": 6.75,
+     "score": 1.0
+    },
+    {
+     "w": "Ende",
+     "s": 6.75,
+     "e": 7.09,
+     "score": 1.0
+    }
+   ]
+  },
+  "s03": {
+   "text": "Denn da steckt eine Falle drin.",
+   "start": 7.49,
+   "end": 9.51,
+   "words": [
+    {
+     "w": "Denn",
+     "s": 7.49,
+     "e": 7.67,
+     "score": 0.679
+    },
+    {
+     "w": "da",
+     "s": 7.67,
+     "e": 7.95,
+     "score": 0.996
+    },
+    {
+     "w": "steckt",
+     "s": 7.95,
+     "e": 8.45,
+     "score": 0.999
+    },
+    {
+     "w": "eine",
+     "s": 8.45,
+     "e": 8.65,
+     "score": 0.998
+    },
+    {
+     "w": "Falle",
+     "s": 8.65,
+     "e": 9.05,
+     "score": 0.999
+    },
+    {
+     "w": "drin",
+     "s": 9.05,
+     "e": 9.21,
+     "score": 0.995
+    }
+   ]
+  },
+  "s04": {
+   "text": "Erste Bude: Marone.",
+   "start": 9.76,
+   "end": 11.48,
+   "words": [
+    {
+     "w": "Erste",
+     "s": 9.76,
+     "e": 10.26,
+     "score": 0.956
+    },
+    {
+     "w": "Bude",
+     "s": 10.26,
+     "e": 10.68,
+     "score": 0.998
+    },
+    {
+     "w": "Marone",
+     "s": 10.68,
+     "e": 11.28,
+     "score": 0.845
+    }
+   ]
+  },
+  "s05": {
+   "text": "Klar: die Marone.",
+   "start": 12.78,
+   "end": 14.28,
+   "words": [
+    {
+     "w": "Klar",
+     "s": 12.78,
+     "e": 13.14,
+     "score": 0.791
+    },
+    {
+     "w": "die",
+     "s": 13.22,
+     "e": 13.46,
+     "score": 0.998
+    },
+    {
+     "w": "Marone",
+     "s": 13.46,
+     "e": 13.98,
+     "score": 0.766
+    }
+   ]
+  },
+  "s06": {
+   "text": "Weiter: Zuckerwatte.",
+   "start": 14.43,
+   "end": 16.15,
+   "words": [
+    {
+     "w": "Weiter",
+     "s": 14.43,
+     "e": 14.81,
+     "score": 0.827
+    },
+    {
+     "w": "Zuckerwatte",
+     "s": 14.81,
+     "e": 15.85,
+     "score": 0.962
+    }
+   ]
+  },
+  "s07": {
+   "text": "Die Zuckerwatte. Easy.",
+   "start": 17.45,
+   "end": 19.11,
+   "words": [
+    {
+     "w": "Die",
+     "s": 17.45,
+     "e": 17.61,
+     "score": 0.756
+    },
+    {
+     "w": "Zuckerwatte",
+     "s": 17.61,
+     "e": 18.23,
+     "score": 0.994
+    },
+    {
+     "w": "Easy",
+     "s": 18.49,
+     "e": 18.81,
+     "score": 0.998
+    }
+   ]
+  },
+  "s08": {
+   "text": "Jetzt wird es glitzrig: Lametta.",
+   "start": 19.26,
+   "end": 21.42,
+   "words": [
+    {
+     "w": "Jetzt",
+     "s": 19.26,
+     "e": 19.52,
+     "score": 0.975
+    },
+    {
+     "w": "wird",
+     "s": 19.52,
+     "e": 19.9,
+     "score": 0.555
+    },
+    {
+     "w": "es",
+     "s": 19.9,
+     "e": 20.08,
+     "score": 0.459
+    },
+    {
+     "w": "glitzrig",
+     "s": 20.08,
+     "e": 20.66,
+     "score": 0.95
+    },
+    {
+     "w": "Lametta",
+     "s": 20.66,
+     "e": 21.12,
+     "score": 0.839
+    }
+   ]
+  },
+  "s09": {
+   "text": "Das Lametta. Ja, das!",
+   "start": 22.72,
+   "end": 25.08,
+   "words": [
+    {
+     "w": "Das",
+     "s": 22.72,
+     "e": 22.88,
+     "score": 0.838
+    },
+    {
+     "w": "Lametta",
+     "s": 22.88,
+     "e": 23.36,
+     "score": 0.972
+    },
+    {
+     "w": "Ja",
+     "s": 23.66,
+     "e": 24.22,
+     "score": 0.989
+    },
+    {
+     "w": "das",
+     "s": 24.38,
+     "e": 24.78,
+     "score": 0.794
+    }
+   ]
+  },
+  "s10": {
+   "text": "Fast da. Lebkuchen.",
+   "start": 25.23,
+   "end": 27.03,
+   "words": [
+    {
+     "w": "Fast",
+     "s": 25.23,
+     "e": 25.45,
+     "score": 0.584
+    },
+    {
+     "w": "da",
+     "s": 25.45,
+     "e": 25.75,
+     "score": 0.948
+    },
+    {
+     "w": "Lebkuchen",
+     "s": 25.89,
+     "e": 26.73,
+     "score": 0.926
+    }
+   ]
+  },
+  "s11": {
+   "text": "Der Lebkuchen. Merk dir das: der.",
+   "start": 28.33,
+   "end": 30.87,
+   "words": [
+    {
+     "w": "Der",
+     "s": 28.33,
+     "e": 28.45,
+     "score": 0.95
+    },
+    {
+     "w": "Lebkuchen",
+     "s": 28.45,
+     "e": 29.11,
+     "score": 0.9
+    },
+    {
+     "w": "Merk",
+     "s": 29.13,
+     "e": 29.79,
+     "score": 0.45
+    },
+    {
+     "w": "dir",
+     "s": 29.79,
+     "e": 30.11,
+     "score": 0.933
+    },
+    {
+     "w": "das",
+     "s": 30.11,
+     "e": 30.31,
+     "score": 0.986
+    },
+    {
+     "w": "der",
+     "s": 30.31,
+     "e": 30.57,
+     "score": 0.87
+    }
+   ]
+  },
+  "s12": {
+   "text": "Und jetzt das Herz. Lebkuchenherz?",
+   "start": 31.12,
+   "end": 34.0,
+   "words": [
+    {
+     "w": "Und",
+     "s": 31.12,
+     "e": 31.26,
+     "score": 0.913
+    },
+    {
+     "w": "jetzt",
+     "s": 31.26,
+     "e": 31.42,
+     "score": 0.998
+    },
+    {
+     "w": "das",
+     "s": 31.42,
+     "e": 31.7,
+     "score": 0.998
+    },
+    {
+     "w": "Herz",
+     "s": 31.7,
+     "e": 31.98,
+     "score": 0.999
+    },
+    {
+     "w": "Lebkuchenherz",
+     "s": 32.3,
+     "e": 33.7,
+     "score": 0.976
+    }
+   ]
+  },
+  "s13": {
+   "text": "Nicht der! Das Lebkuchenherz.",
+   "start": 35.5,
+   "end": 38.38,
+   "words": [
+    {
+     "w": "Nicht",
+     "s": 35.5,
+     "e": 35.76,
+     "score": 0.624
+    },
+    {
+     "w": "der",
+     "s": 35.76,
+     "e": 36.0,
+     "score": 0.768
+    },
+    {
+     "w": "Das",
+     "s": 36.18,
+     "e": 36.76,
+     "score": 0.995
+    },
+    {
+     "w": "Lebkuchenherz",
+     "s": 36.76,
+     "e": 38.08,
+     "score": 0.942
+    }
+   ]
+  },
+  "s14": {
+   "text": "Er hat mir ein Lebkuchenherz mit „Für meine Kollegin“ geschenkt.",
+   "start": 38.58,
+   "end": 42.72,
+   "words": [
+    {
+     "w": "Er",
+     "s": 38.58,
+     "e": 38.72,
+     "score": 0.96
+    },
+    {
+     "w": "hat",
+     "s": 38.72,
+     "e": 38.9,
+     "score": 0.999
+    },
+    {
+     "w": "mir",
+     "s": 38.9,
+     "e": 39.08,
+     "score": 1.0
+    },
+    {
+     "w": "ein",
+     "s": 39.08,
+     "e": 39.42,
+     "score": 0.985
+    },
+    {
+     "w": "Lebkuchenherz",
+     "s": 39.42,
+     "e": 40.5,
+     "score": 0.979
+    },
+    {
+     "w": "mit",
+     "s": 40.5,
+     "e": 40.66,
+     "score": 0.99
+    },
+    {
+     "w": "„Für",
+     "s": 40.66,
+     "e": 40.94,
+     "score": 0.984
+    },
+    {
+     "w": "meine",
+     "s": 40.94,
+     "e": 41.22,
+     "score": 0.999
+    },
+    {
+     "w": "Kollegin",
+     "s": 41.22,
+     "e": 41.66,
+     "score": 1.0
+    },
+    {
+     "w": "geschenkt",
+     "s": 41.66,
+     "e": 42.42,
+     "score": 1.0
+    }
+   ]
+  },
+  "s15": {
+   "text": "Morgen: noch mehr Fallen vom Weihnachtsmarkt.",
+   "start": 42.97,
+   "end": 46.39,
+   "words": [
+    {
+     "w": "Morgen",
+     "s": 42.97,
+     "e": 43.43,
+     "score": 0.93
+    },
+    {
+     "w": "noch",
+     "s": 43.43,
+     "e": 44.25,
+     "score": 0.98
+    },
+    {
+     "w": "mehr",
+     "s": 44.25,
+     "e": 44.49,
+     "score": 0.986
+    },
+    {
+     "w": "Fallen",
+     "s": 44.49,
+     "e": 45.03,
+     "score": 0.755
+    },
+    {
+     "w": "vom",
+     "s": 45.03,
+     "e": 45.17,
+     "score": 0.996
+    },
+    {
+     "w": "Weihnachtsmarkt",
+     "s": 45.17,
+     "e": 46.09,
+     "score": 0.999
+    }
+   ]
+  },
+  "s16": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 46.54,
+   "end": 48.58,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 46.54,
+     "e": 46.86,
+     "score": 0.994
+    },
+    {
+     "w": "für",
+     "s": 46.86,
+     "e": 47.08,
+     "score": 0.995
+    },
+    {
+     "w": "mehr",
+     "s": 47.08,
+     "e": 47.36,
+     "score": 0.852
+    },
+    {
+     "w": "Wortbilder",
+     "s": 47.36,
+     "e": 48.28,
+     "score": 0.999
+    }
+   ]
+  }
+ },
+ "duration": 48.88
+}

@@ -1,0 +1,549 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.4,
+   "end": 3.86,
+   "lines": [
+    "s01"
+   ]
+  },
+  {
+   "key": "vertrauen",
+   "word": "vertrauen",
+   "start": 3.86,
+   "end": 8.58,
+   "lines": [
+    "s02"
+   ]
+  },
+  {
+   "key": "das_vertrauen",
+   "word": "das Vertrauen",
+   "start": 8.58,
+   "end": 11.98,
+   "lines": [
+    "s03"
+   ]
+  },
+  {
+   "key": "vertraut",
+   "word": "vertraut",
+   "start": 11.98,
+   "end": 15.74,
+   "lines": [
+    "s04"
+   ]
+  },
+  {
+   "key": "vertrauenswuerdig",
+   "word": "vertrauenswürdig",
+   "start": 15.74,
+   "end": 20.34,
+   "lines": [
+    "s05"
+   ]
+  },
+  {
+   "key": "anvertrauen",
+   "word": "sich anvertrauen",
+   "start": 20.34,
+   "end": 25.04,
+   "lines": [
+    "s06"
+   ]
+  },
+  {
+   "key": "misstrauen",
+   "word": "misstrauen",
+   "start": 25.04,
+   "end": 33.12,
+   "lines": [
+    "s07",
+    "s08"
+   ]
+  },
+  {
+   "key": "aufbauen",
+   "word": null,
+   "start": 33.12,
+   "end": 36.7,
+   "lines": [
+    "s09"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 36.7,
+   "end": 40.34,
+   "lines": [
+    "s10"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Ein Wort, fünf Verwandte.",
+   "start": 0.4,
+   "end": 3.36,
+   "words": [
+    {
+     "w": "Ein",
+     "s": 0.64,
+     "e": 0.72,
+     "score": 0.114
+    },
+    {
+     "w": "Wort",
+     "s": 0.96,
+     "e": 1.04,
+     "score": 0.122
+    },
+    {
+     "w": "fünf",
+     "s": 1.68,
+     "e": 1.76,
+     "score": 0.878
+    },
+    {
+     "w": "Verwandte",
+     "s": 2.08,
+     "e": 2.48,
+     "score": 0.588
+    }
+   ]
+  },
+  "s02": {
+   "text": "Alles beginnt mit vertrauen: sich auf jemanden verlassen.",
+   "start": 3.86,
+   "end": 7.98,
+   "words": [
+    {
+     "w": "Alles",
+     "s": 4.1,
+     "e": 4.34,
+     "score": 0.346
+    },
+    {
+     "w": "beginnt",
+     "s": 4.65,
+     "e": 4.73,
+     "score": 0.999
+    },
+    {
+     "w": "mit",
+     "s": 4.97,
+     "e": 5.05,
+     "score": 0.999
+    },
+    {
+     "w": "vertrauen",
+     "s": 5.44,
+     "e": 5.52,
+     "score": 0.885
+    },
+    {
+     "w": "sich",
+     "s": 5.92,
+     "e": 6.0,
+     "score": 1.0
+    },
+    {
+     "w": "auf",
+     "s": 6.16,
+     "e": 6.24,
+     "score": 1.0
+    },
+    {
+     "w": "jemanden",
+     "s": 6.47,
+     "e": 6.55,
+     "score": 0.995
+    },
+    {
+     "w": "verlassen",
+     "s": 7.27,
+     "e": 7.35,
+     "score": 0.997
+    }
+   ]
+  },
+  "s03": {
+   "text": "Daraus wird das Nomen: das Vertrauen.",
+   "start": 8.58,
+   "end": 11.38,
+   "words": [
+    {
+     "w": "Daraus",
+     "s": 8.74,
+     "e": 9.06,
+     "score": 0.339
+    },
+    {
+     "w": "wird",
+     "s": 9.22,
+     "e": 9.3,
+     "score": 0.951
+    },
+    {
+     "w": "das",
+     "s": 9.46,
+     "e": 9.54,
+     "score": 0.928
+    },
+    {
+     "w": "Nomen",
+     "s": 9.7,
+     "e": 9.94,
+     "score": 0.006
+    },
+    {
+     "w": "das",
+     "s": 10.1,
+     "e": 10.18,
+     "score": 0.992
+    },
+    {
+     "w": "Vertrauen",
+     "s": 10.66,
+     "e": 10.74,
+     "score": 0.001
+    }
+   ]
+  },
+  "s04": {
+   "text": "Vertraut heißt: gut bekannt, ohne Scheu.",
+   "start": 11.98,
+   "end": 15.14,
+   "words": [
+    {
+     "w": "Vertraut",
+     "s": 12.14,
+     "e": 12.53,
+     "score": 0.726
+    },
+    {
+     "w": "heißt",
+     "s": 12.69,
+     "e": 12.77,
+     "score": 0.788
+    },
+    {
+     "w": "gut",
+     "s": 13.09,
+     "e": 13.17,
+     "score": 0.94
+    },
+    {
+     "w": "bekannt",
+     "s": 13.48,
+     "e": 13.56,
+     "score": 0.976
+    },
+    {
+     "w": "ohne",
+     "s": 14.19,
+     "e": 14.27,
+     "score": 0.604
+    },
+    {
+     "w": "Scheu",
+     "s": 14.59,
+     "e": 14.75,
+     "score": 0.058
+    }
+   ]
+  },
+  "s05": {
+   "text": "Vertrauenswürdig ist, wer es verdient, dass man ihm vertraut.",
+   "start": 15.74,
+   "end": 19.74,
+   "words": [
+    {
+     "w": "Vertrauenswürdig",
+     "s": 16.14,
+     "e": 16.7,
+     "score": 0.672
+    },
+    {
+     "w": "ist",
+     "s": 16.94,
+     "e": 17.02,
+     "score": 0.932
+    },
+    {
+     "w": "wer",
+     "s": 17.42,
+     "e": 17.5,
+     "score": 0.613
+    },
+    {
+     "w": "es",
+     "s": 17.66,
+     "e": 17.74,
+     "score": 0.969
+    },
+    {
+     "w": "verdient",
+     "s": 17.98,
+     "e": 18.06,
+     "score": 0.993
+    },
+    {
+     "w": "dass",
+     "s": 18.38,
+     "e": 18.46,
+     "score": 0.533
+    },
+    {
+     "w": "man",
+     "s": 18.62,
+     "e": 18.7,
+     "score": 0.994
+    },
+    {
+     "w": "ihm",
+     "s": 18.86,
+     "e": 18.94,
+     "score": 0.874
+    },
+    {
+     "w": "vertraut",
+     "s": 19.34,
+     "e": 19.42,
+     "score": 0.908
+    }
+   ]
+  },
+  "s06": {
+   "text": "Sich anvertrauen heißt: Geheimes oder Persönliches erzählen.",
+   "start": 20.34,
+   "end": 24.34,
+   "words": [
+    {
+     "w": "Sich",
+     "s": 20.5,
+     "e": 20.66,
+     "score": 0.002
+    },
+    {
+     "w": "anvertrauen",
+     "s": 20.74,
+     "e": 21.46,
+     "score": 0.989
+    },
+    {
+     "w": "heißt",
+     "s": 21.62,
+     "e": 21.7,
+     "score": 0.735
+    },
+    {
+     "w": "Geheimes",
+     "s": 21.94,
+     "e": 22.34,
+     "score": 0.325
+    },
+    {
+     "w": "oder",
+     "s": 22.5,
+     "e": 22.58,
+     "score": 0.999
+    },
+    {
+     "w": "Persönliches",
+     "s": 22.74,
+     "e": 23.3,
+     "score": 0.004
+    },
+    {
+     "w": "erzählen",
+     "s": 23.62,
+     "e": 23.7,
+     "score": 0.999
+    }
+   ]
+  },
+  "s07": {
+   "text": "Doch eine kleine Vorsilbe dreht alles um.",
+   "start": 25.04,
+   "end": 28.28,
+   "words": [
+    {
+     "w": "Doch",
+     "s": 25.28,
+     "e": 25.36,
+     "score": 0.547
+    },
+    {
+     "w": "eine",
+     "s": 25.61,
+     "e": 25.69,
+     "score": 0.752
+    },
+    {
+     "w": "kleine",
+     "s": 26.01,
+     "e": 26.09,
+     "score": 0.921
+    },
+    {
+     "w": "Vorsilbe",
+     "s": 26.42,
+     "e": 26.98,
+     "score": 0.526
+    },
+    {
+     "w": "dreht",
+     "s": 27.06,
+     "e": 27.31,
+     "score": 0.991
+    },
+    {
+     "w": "alles",
+     "s": 27.47,
+     "e": 27.55,
+     "score": 0.991
+    },
+    {
+     "w": "um",
+     "s": 27.87,
+     "e": 27.96,
+     "score": 0.978
+    }
+   ]
+  },
+  "s08": {
+   "text": "Misstrauen heißt: jemandem nicht glauben, ihn verdächtigen.",
+   "start": 28.68,
+   "end": 32.32,
+   "words": [
+    {
+     "w": "Misstrauen",
+     "s": 28.84,
+     "e": 29.39,
+     "score": 0.03
+    },
+    {
+     "w": "heißt",
+     "s": 29.55,
+     "e": 29.63,
+     "score": 0.502
+    },
+    {
+     "w": "jemandem",
+     "s": 29.87,
+     "e": 29.95,
+     "score": 0.002
+    },
+    {
+     "w": "nicht",
+     "s": 30.42,
+     "e": 30.5,
+     "score": 0.996
+    },
+    {
+     "w": "glauben",
+     "s": 30.66,
+     "e": 30.74,
+     "score": 0.698
+    },
+    {
+     "w": "ihn",
+     "s": 31.05,
+     "e": 31.13,
+     "score": 0.956
+    },
+    {
+     "w": "verdächtigen",
+     "s": 31.29,
+     "e": 31.92,
+     "score": 0.995
+    }
+   ]
+  },
+  "s09": {
+   "text": "Vertrauen baut man Schritt für Schritt auf.",
+   "start": 33.12,
+   "end": 36.0,
+   "words": [
+    {
+     "w": "Vertrauen",
+     "s": 33.52,
+     "e": 33.6,
+     "score": 0.001
+    },
+    {
+     "w": "baut",
+     "s": 33.92,
+     "e": 34.08,
+     "score": 0.985
+    },
+    {
+     "w": "man",
+     "s": 34.32,
+     "e": 34.4,
+     "score": 0.994
+    },
+    {
+     "w": "Schritt",
+     "s": 34.64,
+     "e": 34.72,
+     "score": 0.203
+    },
+    {
+     "w": "für",
+     "s": 35.04,
+     "e": 35.12,
+     "score": 0.959
+    },
+    {
+     "w": "Schritt",
+     "s": 35.36,
+     "e": 35.44,
+     "score": 0.329
+    },
+    {
+     "w": "auf",
+     "s": 35.68,
+     "e": 35.76,
+     "score": 0.991
+    }
+   ]
+  },
+  "s10": {
+   "text": "Speichern und später wiederholen!",
+   "start": 36.7,
+   "end": 39.14,
+   "words": [
+    {
+     "w": "Speichern",
+     "s": 36.94,
+     "e": 37.27,
+     "score": 0.671
+    },
+    {
+     "w": "und",
+     "s": 37.51,
+     "e": 37.59,
+     "score": 0.999
+    },
+    {
+     "w": "später",
+     "s": 37.76,
+     "e": 37.84,
+     "score": 1.0
+    },
+    {
+     "w": "wiederholen",
+     "s": 38.16,
+     "e": 38.57,
+     "score": 0.999
+    }
+   ]
+  }
+ },
+ "duration": 40.34
+}

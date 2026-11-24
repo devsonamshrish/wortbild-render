@@ -1,0 +1,587 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.4,
+   "end": 5.69,
+   "lines": [
+    "s01",
+    "s02"
+   ]
+  },
+  {
+   "key": "puderzucker",
+   "word": "der Puderzucker",
+   "start": 5.69,
+   "end": 10.52,
+   "lines": [
+    "s03",
+    "s04"
+   ]
+  },
+  {
+   "key": "zuckerguss",
+   "word": "der Zuckerguss",
+   "start": 10.52,
+   "end": 15.59,
+   "lines": [
+    "s05",
+    "s06"
+   ]
+  },
+  {
+   "key": "zuckerstange",
+   "word": "die Zuckerstange",
+   "start": 15.59,
+   "end": 21.65,
+   "lines": [
+    "s07",
+    "s08"
+   ]
+  },
+  {
+   "key": "zuckerhut",
+   "word": "der Zuckerhut",
+   "start": 21.65,
+   "end": 30.73,
+   "lines": [
+    "s09",
+    "s10"
+   ]
+  },
+  {
+   "key": "payoff",
+   "word": "die Feuerzangenbowle",
+   "start": 30.73,
+   "end": 34.43,
+   "lines": [
+    "s11"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 34.43,
+   "end": 40.03,
+   "lines": [
+    "s12",
+    "s13"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Ein Hut aus Zucker?",
+   "start": 0.4,
+   "end": 1.94,
+   "words": [
+    {
+     "w": "Ein",
+     "s": 0.4,
+     "e": 0.62,
+     "score": 0.399
+    },
+    {
+     "w": "Hut",
+     "s": 0.62,
+     "e": 0.96,
+     "score": 0.996
+    },
+    {
+     "w": "aus",
+     "s": 0.96,
+     "e": 1.2,
+     "score": 0.999
+    },
+    {
+     "w": "Zucker",
+     "s": 1.2,
+     "e": 1.64,
+     "score": 0.999
+    }
+   ]
+  },
+  "s02": {
+   "text": "Halt. Das letzte Wort ist nicht, was du denkst.",
+   "start": 2.19,
+   "end": 5.39,
+   "words": [
+    {
+     "w": "Halt",
+     "s": 2.19,
+     "e": 2.35,
+     "score": 0.245
+    },
+    {
+     "w": "Das",
+     "s": 2.39,
+     "e": 3.05,
+     "score": 0.994
+    },
+    {
+     "w": "letzte",
+     "s": 3.05,
+     "e": 3.39,
+     "score": 1.0
+    },
+    {
+     "w": "Wort",
+     "s": 3.39,
+     "e": 3.69,
+     "score": 1.0
+    },
+    {
+     "w": "ist",
+     "s": 3.69,
+     "e": 3.99,
+     "score": 1.0
+    },
+    {
+     "w": "nicht",
+     "s": 3.99,
+     "e": 4.21,
+     "score": 1.0
+    },
+    {
+     "w": "was",
+     "s": 4.27,
+     "e": 4.45,
+     "score": 1.0
+    },
+    {
+     "w": "du",
+     "s": 4.45,
+     "e": 4.57,
+     "score": 0.969
+    },
+    {
+     "w": "denkst",
+     "s": 4.57,
+     "e": 5.09,
+     "score": 1.0
+    }
+   ]
+  },
+  "s03": {
+   "text": "Was rieselt hier auf den Stollen?",
+   "start": 5.69,
+   "end": 7.67,
+   "words": [
+    {
+     "w": "Was",
+     "s": 5.69,
+     "e": 5.85,
+     "score": 0.932
+    },
+    {
+     "w": "rieselt",
+     "s": 5.85,
+     "e": 6.39,
+     "score": 0.994
+    },
+    {
+     "w": "hier",
+     "s": 6.39,
+     "e": 6.55,
+     "score": 0.999
+    },
+    {
+     "w": "auf",
+     "s": 6.55,
+     "e": 6.75,
+     "score": 1.0
+    },
+    {
+     "w": "den",
+     "s": 6.75,
+     "e": 6.93,
+     "score": 0.999
+    },
+    {
+     "w": "Stollen",
+     "s": 6.93,
+     "e": 7.37,
+     "score": 0.999
+    }
+   ]
+  },
+  "s04": {
+   "text": "Der Puderzucker.",
+   "start": 9.17,
+   "end": 10.27,
+   "words": [
+    {
+     "w": "Der",
+     "s": 9.17,
+     "e": 9.31,
+     "score": 0.675
+    },
+    {
+     "w": "Puderzucker",
+     "s": 9.31,
+     "e": 9.97,
+     "score": 0.91
+    }
+   ]
+  },
+  "s05": {
+   "text": "Womit schreibt sie den Namen aufs Herz?",
+   "start": 10.52,
+   "end": 12.52,
+   "words": [
+    {
+     "w": "Womit",
+     "s": 10.52,
+     "e": 10.84,
+     "score": 0.969
+    },
+    {
+     "w": "schreibt",
+     "s": 10.84,
+     "e": 11.1,
+     "score": 0.976
+    },
+    {
+     "w": "sie",
+     "s": 11.1,
+     "e": 11.26,
+     "score": 0.975
+    },
+    {
+     "w": "den",
+     "s": 11.26,
+     "e": 11.42,
+     "score": 0.995
+    },
+    {
+     "w": "Namen",
+     "s": 11.42,
+     "e": 11.72,
+     "score": 0.996
+    },
+    {
+     "w": "aufs",
+     "s": 11.72,
+     "e": 12.02,
+     "score": 0.763
+    },
+    {
+     "w": "Herz",
+     "s": 12.02,
+     "e": 12.22,
+     "score": 0.883
+    }
+   ]
+  },
+  "s06": {
+   "text": "Der Zuckerguss.",
+   "start": 14.02,
+   "end": 15.34,
+   "words": [
+    {
+     "w": "Der",
+     "s": 14.02,
+     "e": 14.18,
+     "score": 0.84
+    },
+    {
+     "w": "Zuckerguss",
+     "s": 14.18,
+     "e": 15.04,
+     "score": 0.958
+    }
+   ]
+  },
+  "s07": {
+   "text": "Rot-weiß, zum Lutschen?",
+   "start": 15.59,
+   "end": 17.35,
+   "words": [
+    {
+     "w": "Rot",
+     "s": 15.59,
+     "e": 15.89,
+     "score": 0.868
+    },
+    {
+     "w": "-Weiß",
+     "s": 15.89,
+     "e": 16.41,
+     "score": 0.926
+    },
+    {
+     "w": "zum",
+     "s": 16.41,
+     "e": 16.59,
+     "score": 0.996
+    },
+    {
+     "w": "Lutschen.",
+     "s": 16.59,
+     "e": 17.05,
+     "score": 1.0
+    }
+   ]
+  },
+  "s08": {
+   "text": "Die Zuckerstange. Achtung, die!",
+   "start": 18.85,
+   "end": 21.35,
+   "words": [
+    {
+     "w": "Die",
+     "s": 18.85,
+     "e": 19.01,
+     "score": 0.87
+    },
+    {
+     "w": "Zuckerstange",
+     "s": 19.01,
+     "e": 19.71,
+     "score": 0.998
+    },
+    {
+     "w": "Achtung",
+     "s": 20.27,
+     "e": 20.79,
+     "score": 1.0
+    },
+    {
+     "w": "die",
+     "s": 20.79,
+     "e": 21.05,
+     "score": 0.857
+    }
+   ]
+  },
+  "s09": {
+   "text": "Und jetzt: der Zuckerhut. Ab auf den Kopf?",
+   "start": 21.65,
+   "end": 24.51,
+   "words": [
+    {
+     "w": "Und",
+     "s": 21.65,
+     "e": 21.79,
+     "score": 0.948
+    },
+    {
+     "w": "jetzt",
+     "s": 21.79,
+     "e": 22.03,
+     "score": 0.999
+    },
+    {
+     "w": "der",
+     "s": 22.03,
+     "e": 22.35,
+     "score": 0.994
+    },
+    {
+     "w": "Zuckerhut",
+     "s": 22.35,
+     "e": 23.17,
+     "score": 0.999
+    },
+    {
+     "w": "Ab",
+     "s": 23.17,
+     "e": 23.51,
+     "score": 0.997
+    },
+    {
+     "w": "auf",
+     "s": 23.51,
+     "e": 23.73,
+     "score": 1.0
+    },
+    {
+     "w": "den",
+     "s": 23.73,
+     "e": 23.87,
+     "score": 1.0
+    },
+    {
+     "w": "Kopf",
+     "s": 23.87,
+     "e": 24.21,
+     "score": 1.0
+    }
+   ]
+  },
+  "s10": {
+   "text": "Zuerst wird der Zuckerhut mit Rum getränkt, dann angezündet.",
+   "start": 25.71,
+   "end": 30.43,
+   "words": [
+    {
+     "w": "Zuerst",
+     "s": 25.71,
+     "e": 26.29,
+     "score": 0.996
+    },
+    {
+     "w": "wird",
+     "s": 26.29,
+     "e": 26.43,
+     "score": 0.998
+    },
+    {
+     "w": "der",
+     "s": 26.43,
+     "e": 26.67,
+     "score": 1.0
+    },
+    {
+     "w": "Zuckerhut",
+     "s": 26.67,
+     "e": 27.43,
+     "score": 0.991
+    },
+    {
+     "w": "mit",
+     "s": 27.43,
+     "e": 27.59,
+     "score": 1.0
+    },
+    {
+     "w": "Rum",
+     "s": 27.59,
+     "e": 27.85,
+     "score": 0.93
+    },
+    {
+     "w": "getränkt",
+     "s": 27.85,
+     "e": 28.59,
+     "score": 0.999
+    },
+    {
+     "w": "dann",
+     "s": 28.59,
+     "e": 29.13,
+     "score": 1.0
+    },
+    {
+     "w": "angezündet",
+     "s": 29.13,
+     "e": 30.13,
+     "score": 1.0
+    }
+   ]
+  },
+  "s11": {
+   "text": "Kein Hut! Er gehört zur Feuerzangenbowle.",
+   "start": 30.73,
+   "end": 34.03,
+   "words": [
+    {
+     "w": "Kein",
+     "s": 30.73,
+     "e": 31.13,
+     "score": 0.818
+    },
+    {
+     "w": "Hut",
+     "s": 31.13,
+     "e": 31.31,
+     "score": 0.998
+    },
+    {
+     "w": "Er",
+     "s": 31.51,
+     "e": 31.95,
+     "score": 0.979
+    },
+    {
+     "w": "gehört",
+     "s": 31.95,
+     "e": 32.39,
+     "score": 1.0
+    },
+    {
+     "w": "zur",
+     "s": 32.39,
+     "e": 32.69,
+     "score": 1.0
+    },
+    {
+     "w": "Feuerzangenbowle",
+     "s": 32.69,
+     "e": 33.73,
+     "score": 0.874
+    }
+   ]
+  },
+  "s12": {
+   "text": "Morgen: mehr Süßes vom Markt.",
+   "start": 34.43,
+   "end": 36.83,
+   "words": [
+    {
+     "w": "Morgen",
+     "s": 34.43,
+     "e": 34.87,
+     "score": 0.917
+    },
+    {
+     "w": "mehr",
+     "s": 34.99,
+     "e": 35.41,
+     "score": 0.995
+    },
+    {
+     "w": "Süßes",
+     "s": 35.41,
+     "e": 36.01,
+     "score": 0.997
+    },
+    {
+     "w": "vom",
+     "s": 36.01,
+     "e": 36.15,
+     "score": 0.999
+    },
+    {
+     "w": "Markt",
+     "s": 36.15,
+     "e": 36.53,
+     "score": 1.0
+    }
+   ]
+  },
+  "s13": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 37.03,
+   "end": 39.13,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 37.03,
+     "e": 37.35,
+     "score": 0.994
+    },
+    {
+     "w": "für",
+     "s": 37.35,
+     "e": 37.57,
+     "score": 0.996
+    },
+    {
+     "w": "mehr",
+     "s": 37.57,
+     "e": 37.85,
+     "score": 0.852
+    },
+    {
+     "w": "Wortbilder",
+     "s": 37.85,
+     "e": 38.83,
+     "score": 0.999
+    }
+   ]
+  }
+ },
+ "duration": 40.03
+}

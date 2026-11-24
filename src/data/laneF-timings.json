@@ -1,0 +1,685 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": "Süßholz raspeln",
+   "start": 0.4,
+   "end": 3.37,
+   "lines": [
+    "s01"
+   ]
+  },
+  {
+   "key": "loop",
+   "word": null,
+   "start": 3.37,
+   "end": 7.81,
+   "lines": [
+    "s02"
+   ]
+  },
+  {
+   "key": "suess",
+   "word": "Süßholz raspeln",
+   "start": 7.81,
+   "end": 11.47,
+   "lines": [
+    "s03"
+   ]
+  },
+  {
+   "key": "braten",
+   "word": "den Braten riechen",
+   "start": 11.47,
+   "end": 18.71,
+   "lines": [
+    "s04",
+    "s05"
+   ]
+  },
+  {
+   "key": "finger",
+   "word": "jdn. um den Finger wickeln",
+   "start": 18.71,
+   "end": 26.43,
+   "lines": [
+    "s06",
+    "s07"
+   ]
+  },
+  {
+   "key": "bescherung",
+   "word": "„Schöne Bescherung!“",
+   "start": 26.43,
+   "end": 32.49,
+   "lines": [
+    "s08",
+    "s09"
+   ]
+  },
+  {
+   "key": "payoff",
+   "word": null,
+   "start": 32.49,
+   "end": 39.23,
+   "lines": [
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 39.23,
+   "end": 45.68,
+   "lines": [
+    "s12",
+    "s13"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Der Nussknacker raspelt Süßholz.",
+   "start": 0.4,
+   "end": 3.12,
+   "words": [
+    {
+     "w": "Der",
+     "s": 0.4,
+     "e": 0.58,
+     "score": 0.967
+    },
+    {
+     "w": "Nussknacker",
+     "s": 0.58,
+     "e": 1.34,
+     "score": 0.999
+    },
+    {
+     "w": "raspelt",
+     "s": 1.34,
+     "e": 1.98,
+     "score": 0.99
+    },
+    {
+     "w": "Süßholz",
+     "s": 1.98,
+     "e": 2.82,
+     "score": 0.995
+    }
+   ]
+  },
+  "s02": {
+   "text": "Bleib dran: Der letzte Satz klingt schön. Ist er aber nicht.",
+   "start": 3.37,
+   "end": 7.51,
+   "words": [
+    {
+     "w": "Bleib",
+     "s": 3.37,
+     "e": 3.67,
+     "score": 0.743
+    },
+    {
+     "w": "dran",
+     "s": 3.67,
+     "e": 3.85,
+     "score": 0.999
+    },
+    {
+     "w": "Der",
+     "s": 4.09,
+     "e": 4.69,
+     "score": 0.997
+    },
+    {
+     "w": "letzte",
+     "s": 4.69,
+     "e": 5.01,
+     "score": 1.0
+    },
+    {
+     "w": "Satz",
+     "s": 5.01,
+     "e": 5.45,
+     "score": 1.0
+    },
+    {
+     "w": "klingt",
+     "s": 5.45,
+     "e": 5.69,
+     "score": 1.0
+    },
+    {
+     "w": "schön",
+     "s": 5.69,
+     "e": 5.99,
+     "score": 1.0
+    },
+    {
+     "w": "Ist",
+     "s": 6.17,
+     "e": 6.47,
+     "score": 0.998
+    },
+    {
+     "w": "er",
+     "s": 6.47,
+     "e": 6.71,
+     "score": 1.0
+    },
+    {
+     "w": "aber",
+     "s": 6.71,
+     "e": 6.93,
+     "score": 1.0
+    },
+    {
+     "w": "nicht",
+     "s": 6.93,
+     "e": 7.21,
+     "score": 1.0
+    }
+   ]
+  },
+  "s03": {
+   "text": "Er versucht am Mandelstand, Süßholz zu raspeln.",
+   "start": 7.81,
+   "end": 11.07,
+   "words": [
+    {
+     "w": "Er",
+     "s": 7.81,
+     "e": 7.93,
+     "score": 0.979
+    },
+    {
+     "w": "versucht",
+     "s": 7.93,
+     "e": 8.29,
+     "score": 0.876
+    },
+    {
+     "w": "am",
+     "s": 8.29,
+     "e": 8.47,
+     "score": 0.456
+    },
+    {
+     "w": "Mandelstand",
+     "s": 8.47,
+     "e": 9.05,
+     "score": 0.991
+    },
+    {
+     "w": "Süßholz",
+     "s": 9.05,
+     "e": 10.17,
+     "score": 0.934
+    },
+    {
+     "w": "zu",
+     "s": 10.17,
+     "e": 10.25,
+     "score": 1.0
+    },
+    {
+     "w": "raspeln",
+     "s": 10.25,
+     "e": 10.77,
+     "score": 0.988
+    }
+   ]
+  },
+  "s04": {
+   "text": "Er wird plötzlich verdächtig nett.",
+   "start": 11.47,
+   "end": 13.63,
+   "words": [
+    {
+     "w": "Er",
+     "s": 11.47,
+     "e": 11.61,
+     "score": 0.908
+    },
+    {
+     "w": "wird",
+     "s": 11.61,
+     "e": 11.81,
+     "score": 0.809
+    },
+    {
+     "w": "plötzlich",
+     "s": 11.81,
+     "e": 12.31,
+     "score": 0.998
+    },
+    {
+     "w": "verdächtig",
+     "s": 12.31,
+     "e": 13.17,
+     "score": 1.0
+    },
+    {
+     "w": "nett",
+     "s": 13.17,
+     "e": 13.33,
+     "score": 1.0
+    }
+   ]
+  },
+  "s05": {
+   "text": "Ich habe sofort den Braten gerochen, als er so nett wurde.",
+   "start": 14.53,
+   "end": 18.31,
+   "words": [
+    {
+     "w": "Ich",
+     "s": 14.53,
+     "e": 14.69,
+     "score": 0.985
+    },
+    {
+     "w": "habe",
+     "s": 14.69,
+     "e": 14.83,
+     "score": 1.0
+    },
+    {
+     "w": "sofort",
+     "s": 14.83,
+     "e": 15.21,
+     "score": 1.0
+    },
+    {
+     "w": "den",
+     "s": 15.21,
+     "e": 15.71,
+     "score": 1.0
+    },
+    {
+     "w": "Braten",
+     "s": 15.71,
+     "e": 16.23,
+     "score": 1.0
+    },
+    {
+     "w": "gerochen",
+     "s": 16.23,
+     "e": 16.79,
+     "score": 0.999
+    },
+    {
+     "w": "als",
+     "s": 16.79,
+     "e": 17.25,
+     "score": 1.0
+    },
+    {
+     "w": "er",
+     "s": 17.25,
+     "e": 17.41,
+     "score": 1.0
+    },
+    {
+     "w": "so",
+     "s": 17.41,
+     "e": 17.53,
+     "score": 1.0
+    },
+    {
+     "w": "nett",
+     "s": 17.53,
+     "e": 17.73,
+     "score": 1.0
+    },
+    {
+     "w": "wurde",
+     "s": 17.73,
+     "e": 18.01,
+     "score": 1.0
+    }
+   ]
+  },
+  "s06": {
+   "text": "Dann kommt die Kleine. Und lächelt.",
+   "start": 18.71,
+   "end": 21.23,
+   "words": [
+    {
+     "w": "Dann",
+     "s": 18.71,
+     "e": 18.93,
+     "score": 0.969
+    },
+    {
+     "w": "kommt",
+     "s": 18.93,
+     "e": 19.27,
+     "score": 0.999
+    },
+    {
+     "w": "die",
+     "s": 19.27,
+     "e": 19.45,
+     "score": 0.999
+    },
+    {
+     "w": "Kleine",
+     "s": 19.45,
+     "e": 19.99,
+     "score": 0.992
+    },
+    {
+     "w": "Und",
+     "s": 19.99,
+     "e": 20.15,
+     "score": 0.994
+    },
+    {
+     "w": "lächelt",
+     "s": 20.15,
+     "e": 20.93,
+     "score": 1.0
+    }
+   ]
+  },
+  "s07": {
+   "text": "Die Kleine hat ihn mit einem Lächeln um den Finger gewickelt.",
+   "start": 22.13,
+   "end": 26.03,
+   "words": [
+    {
+     "w": "Die",
+     "s": 22.13,
+     "e": 22.21,
+     "score": 0.941
+    },
+    {
+     "w": "Kleine",
+     "s": 22.21,
+     "e": 22.69,
+     "score": 0.994
+    },
+    {
+     "w": "hat",
+     "s": 22.69,
+     "e": 22.81,
+     "score": 1.0
+    },
+    {
+     "w": "ihn",
+     "s": 22.81,
+     "e": 23.09,
+     "score": 0.997
+    },
+    {
+     "w": "mit",
+     "s": 23.09,
+     "e": 23.33,
+     "score": 1.0
+    },
+    {
+     "w": "einem",
+     "s": 23.33,
+     "e": 23.59,
+     "score": 1.0
+    },
+    {
+     "w": "Lächeln",
+     "s": 23.59,
+     "e": 24.23,
+     "score": 1.0
+    },
+    {
+     "w": "um",
+     "s": 24.23,
+     "e": 24.45,
+     "score": 1.0
+    },
+    {
+     "w": "den",
+     "s": 24.45,
+     "e": 24.63,
+     "score": 1.0
+    },
+    {
+     "w": "Finger",
+     "s": 24.63,
+     "e": 25.07,
+     "score": 1.0
+    },
+    {
+     "w": "gewickelt",
+     "s": 25.07,
+     "e": 25.73,
+     "score": 1.0
+    }
+   ]
+  },
+  "s08": {
+   "text": "Zum Schluss: Tasse umgekippt, Handy nass.",
+   "start": 26.43,
+   "end": 29.75,
+   "words": [
+    {
+     "w": "Zum",
+     "s": 26.43,
+     "e": 26.59,
+     "score": 0.993
+    },
+    {
+     "w": "Schluss",
+     "s": 26.59,
+     "e": 27.01,
+     "score": 0.989
+    },
+    {
+     "w": "Tasse",
+     "s": 27.05,
+     "e": 27.79,
+     "score": 0.867
+    },
+    {
+     "w": "umgekippt",
+     "s": 27.79,
+     "e": 28.59,
+     "score": 0.999
+    },
+    {
+     "w": "Handy",
+     "s": 28.59,
+     "e": 28.95,
+     "score": 0.978
+    },
+    {
+     "w": "nass",
+     "s": 28.95,
+     "e": 29.45,
+     "score": 0.998
+    }
+   ]
+  },
+  "s09": {
+   "text": "Schöne Bescherung!",
+   "start": 30.75,
+   "end": 32.19,
+   "words": [
+    {
+     "w": "Schöne",
+     "s": 30.75,
+     "e": 31.17,
+     "score": 0.73
+    },
+    {
+     "w": "Bescherung",
+     "s": 31.17,
+     "e": 31.89,
+     "score": 0.998
+    }
+   ]
+  },
+  "s10": {
+   "text": "Klingt nach Geschenken. Ist aber ironisch gemeint.",
+   "start": 32.49,
+   "end": 36.05,
+   "words": [
+    {
+     "w": "Klingt",
+     "s": 32.49,
+     "e": 32.77,
+     "score": 0.792
+    },
+    {
+     "w": "nach",
+     "s": 32.77,
+     "e": 32.97,
+     "score": 1.0
+    },
+    {
+     "w": "Geschenken",
+     "s": 32.97,
+     "e": 33.73,
+     "score": 0.999
+    },
+    {
+     "w": "Ist",
+     "s": 33.77,
+     "e": 34.21,
+     "score": 0.998
+    },
+    {
+     "w": "aber",
+     "s": 34.21,
+     "e": 34.51,
+     "score": 1.0
+    },
+    {
+     "w": "ironisch",
+     "s": 34.51,
+     "e": 35.21,
+     "score": 0.999
+    },
+    {
+     "w": "gemeint",
+     "s": 35.21,
+     "e": 35.75,
+     "score": 1.0
+    }
+   ]
+  },
+  "s11": {
+   "text": "Und er? Raspelt schon wieder Süßholz.",
+   "start": 36.35,
+   "end": 38.93,
+   "words": [
+    {
+     "w": "Und",
+     "s": 36.35,
+     "e": 36.49,
+     "score": 0.942
+    },
+    {
+     "w": "er",
+     "s": 36.49,
+     "e": 36.67,
+     "score": 0.999
+    },
+    {
+     "w": "Raspelt",
+     "s": 36.67,
+     "e": 37.53,
+     "score": 0.963
+    },
+    {
+     "w": "schon",
+     "s": 37.53,
+     "e": 37.61,
+     "score": 1.0
+    },
+    {
+     "w": "wieder",
+     "s": 37.61,
+     "e": 37.81,
+     "score": 1.0
+    },
+    {
+     "w": "Süßholz",
+     "s": 37.81,
+     "e": 38.63,
+     "score": 0.997
+    }
+   ]
+  },
+  "s12": {
+   "text": "Morgen: mehr Redewendungen vom Markt.",
+   "start": 39.23,
+   "end": 42.19,
+   "words": [
+    {
+     "w": "Morgen",
+     "s": 39.23,
+     "e": 39.65,
+     "score": 0.947
+    },
+    {
+     "w": "mehr",
+     "s": 39.79,
+     "e": 40.37,
+     "score": 0.993
+    },
+    {
+     "w": "Redewendungen",
+     "s": 40.37,
+     "e": 41.33,
+     "score": 0.973
+    },
+    {
+     "w": "vom",
+     "s": 41.33,
+     "e": 41.55,
+     "score": 0.822
+    },
+    {
+     "w": "Markt",
+     "s": 41.55,
+     "e": 41.89,
+     "score": 1.0
+    }
+   ]
+  },
+  "s13": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 42.44,
+   "end": 44.48,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 42.44,
+     "e": 42.76,
+     "score": 0.994
+    },
+    {
+     "w": "für",
+     "s": 42.76,
+     "e": 42.98,
+     "score": 0.995
+    },
+    {
+     "w": "mehr",
+     "s": 42.98,
+     "e": 43.26,
+     "score": 0.851
+    },
+    {
+     "w": "Wortbilder",
+     "s": 43.26,
+     "e": 44.18,
+     "score": 0.999
+    }
+   ]
+  }
+ },
+ "duration": 45.68
+}

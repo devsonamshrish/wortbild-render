@@ -1,0 +1,709 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.377,
+   "end": 5.434,
+   "lines": [
+    "s01",
+    "s02"
+   ]
+  },
+  {
+   "key": "bratapfel",
+   "word": "der Bratapfel",
+   "start": 5.434,
+   "end": 10.708,
+   "lines": [
+    "s04",
+    "s05"
+   ]
+  },
+  {
+   "key": "marzipan",
+   "word": "das Marzipan",
+   "start": 10.708,
+   "end": 16.208,
+   "lines": [
+    "s06",
+    "s07"
+   ]
+  },
+  {
+   "key": "spekulatius",
+   "word": "der Spekulatius",
+   "start": 16.208,
+   "end": 22.538,
+   "lines": [
+    "s08",
+    "s09"
+   ]
+  },
+  {
+   "key": "stand",
+   "word": "der Stand",
+   "start": 22.538,
+   "end": 29.849,
+   "lines": [
+    "s10",
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "key": "krakauer",
+   "word": "die Krakauer",
+   "start": 29.849,
+   "end": 38.123,
+   "lines": [
+    "s13",
+    "s14"
+   ]
+  },
+  {
+   "key": "payoff",
+   "word": null,
+   "start": 38.123,
+   "end": 44.585,
+   "lines": [
+    "s15",
+    "s16"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 44.585,
+   "end": 46.849,
+   "lines": [
+    "s17"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Krakauer. Der, die oder das?",
+   "start": 0.377,
+   "end": 2.585,
+   "words": [
+    {
+     "w": "Krakauer",
+     "s": 0.377,
+     "e": 0.906,
+     "score": 0.948
+    },
+    {
+     "w": "Der",
+     "s": 0.981,
+     "e": 1.302,
+     "score": 0.996
+    },
+    {
+     "w": "die",
+     "s": 1.491,
+     "e": 1.717,
+     "score": 0.993
+    },
+    {
+     "w": "oder",
+     "s": 1.717,
+     "e": 2.038,
+     "score": 0.997
+    },
+    {
+     "w": "das",
+     "s": 2.038,
+     "e": 2.302,
+     "score": 0.998
+    }
+   ]
+  },
+  "s02": {
+   "text": "Moment! Das ist die Falle am Ende.",
+   "start": 2.774,
+   "end": 5.245,
+   "words": [
+    {
+     "w": "Moment",
+     "s": 2.774,
+     "e": 3.038,
+     "score": 0.911
+    },
+    {
+     "w": "Das",
+     "s": 3.245,
+     "e": 3.849,
+     "score": 0.999
+    },
+    {
+     "w": "ist",
+     "s": 3.849,
+     "e": 4.075,
+     "score": 1.0
+    },
+    {
+     "w": "die",
+     "s": 4.075,
+     "e": 4.208,
+     "score": 1.0
+    },
+    {
+     "w": "Falle",
+     "s": 4.208,
+     "e": 4.585,
+     "score": 0.999
+    },
+    {
+     "w": "am",
+     "s": 4.585,
+     "e": 4.679,
+     "score": 1.0
+    },
+    {
+     "w": "Ende",
+     "s": 4.679,
+     "e": 4.962,
+     "score": 1.0
+    }
+   ]
+  },
+  "s04": {
+   "text": "Erste Bude: Bratapfel.",
+   "start": 5.434,
+   "end": 7.453,
+   "words": [
+    {
+     "w": "Erste",
+     "s": 5.434,
+     "e": 5.792,
+     "score": 0.967
+    },
+    {
+     "w": "Bude",
+     "s": 5.792,
+     "e": 6.057,
+     "score": 0.984
+    },
+    {
+     "w": "Bratapfel",
+     "s": 6.226,
+     "e": 7.17,
+     "score": 0.992
+    }
+   ]
+  },
+  "s05": {
+   "text": "Der Bratapfel. Zum Aufwärmen.",
+   "start": 8.396,
+   "end": 10.566,
+   "words": [
+    {
+     "w": "Der",
+     "s": 8.396,
+     "e": 8.528,
+     "score": 0.769
+    },
+    {
+     "w": "Bratapfel",
+     "s": 8.528,
+     "e": 9.189,
+     "score": 0.999
+    },
+    {
+     "w": "Zum",
+     "s": 9.189,
+     "e": 9.604,
+     "score": 0.991
+    },
+    {
+     "w": "Aufwärmen",
+     "s": 9.604,
+     "e": 10.283,
+     "score": 0.913
+    }
+   ]
+  },
+  "s06": {
+   "text": "Zweite Bude: Marzipan.",
+   "start": 10.708,
+   "end": 12.708,
+   "words": [
+    {
+     "w": "Zweite",
+     "s": 10.708,
+     "e": 11.066,
+     "score": 0.864
+    },
+    {
+     "w": "Bude",
+     "s": 11.066,
+     "e": 11.368,
+     "score": 0.983
+    },
+    {
+     "w": "Marzipan",
+     "s": 11.368,
+     "e": 12.425,
+     "score": 0.873
+    }
+   ]
+  },
+  "s07": {
+   "text": "Das Marzipan. Zwei von zwei?",
+   "start": 13.651,
+   "end": 16.066,
+   "words": [
+    {
+     "w": "Das",
+     "s": 13.651,
+     "e": 13.877,
+     "score": 0.561
+    },
+    {
+     "w": "Marzipan",
+     "s": 13.877,
+     "e": 14.745,
+     "score": 0.786
+    },
+    {
+     "w": "Zwei",
+     "s": 14.745,
+     "e": 15.179,
+     "score": 0.72
+    },
+    {
+     "w": "von",
+     "s": 15.179,
+     "e": 15.5,
+     "score": 0.996
+    },
+    {
+     "w": "zwei",
+     "s": 15.5,
+     "e": 15.783,
+     "score": 0.994
+    }
+   ]
+  },
+  "s08": {
+   "text": "Dritte Bude: Spekulatius.",
+   "start": 16.208,
+   "end": 18.509,
+   "words": [
+    {
+     "w": "Dritte",
+     "s": 16.208,
+     "e": 16.566,
+     "score": 0.953
+    },
+    {
+     "w": "Bude",
+     "s": 16.566,
+     "e": 16.943,
+     "score": 0.994
+    },
+    {
+     "w": "Spekulatius",
+     "s": 16.943,
+     "e": 18.226,
+     "score": 0.942
+    }
+   ]
+  },
+  "s09": {
+   "text": "Der Spekulatius. Noch alles richtig?",
+   "start": 19.547,
+   "end": 22.396,
+   "words": [
+    {
+     "w": "Der",
+     "s": 19.547,
+     "e": 19.736,
+     "score": 0.828
+    },
+    {
+     "w": "Spekulatius",
+     "s": 19.736,
+     "e": 20.887,
+     "score": 0.995
+    },
+    {
+     "w": "Noch",
+     "s": 21.0,
+     "e": 21.491,
+     "score": 0.999
+    },
+    {
+     "w": "alles",
+     "s": 21.491,
+     "e": 21.755,
+     "score": 1.0
+    },
+    {
+     "w": "richtig",
+     "s": 21.755,
+     "e": 22.113,
+     "score": 1.0
+    }
+   ]
+  },
+  "s10": {
+   "text": "Vierte Bude: Stand.",
+   "start": 22.538,
+   "end": 24.142,
+   "words": [
+    {
+     "w": "Vierte",
+     "s": 22.538,
+     "e": 22.858,
+     "score": 0.877
+    },
+    {
+     "w": "Bude",
+     "s": 22.858,
+     "e": 23.349,
+     "score": 0.973
+    },
+    {
+     "w": "Stand",
+     "s": 23.425,
+     "e": 23.858,
+     "score": 0.997
+    }
+   ]
+  },
+  "s11": {
+   "text": "Der Stand. Zu leicht?",
+   "start": 25.085,
+   "end": 27.16,
+   "words": [
+    {
+     "w": "Der",
+     "s": 25.085,
+     "e": 25.274,
+     "score": 0.819
+    },
+    {
+     "w": "Stand",
+     "s": 25.274,
+     "e": 25.783,
+     "score": 0.92
+    },
+    {
+     "w": "Zu",
+     "s": 25.783,
+     "e": 26.519,
+     "score": 0.427
+    },
+    {
+     "w": "leicht",
+     "s": 26.519,
+     "e": 26.877,
+     "score": 1.0
+    }
+   ]
+  },
+  "s12": {
+   "text": "Aber in Bayern sagt man: das Standl!",
+   "start": 27.349,
+   "end": 29.519,
+   "words": [
+    {
+     "w": "Aber",
+     "s": 27.349,
+     "e": 27.557,
+     "score": 0.83
+    },
+    {
+     "w": "in",
+     "s": 27.557,
+     "e": 27.689,
+     "score": 0.998
+    },
+    {
+     "w": "Bayern",
+     "s": 27.689,
+     "e": 28.009,
+     "score": 0.997
+    },
+    {
+     "w": "sagt",
+     "s": 28.009,
+     "e": 28.311,
+     "score": 0.993
+    },
+    {
+     "w": "man",
+     "s": 28.311,
+     "e": 28.557,
+     "score": 1.0
+    },
+    {
+     "w": "das",
+     "s": 28.557,
+     "e": 28.726,
+     "score": 0.662
+    },
+    {
+     "w": "Standl",
+     "s": 28.726,
+     "e": 29.236,
+     "score": 0.532
+    }
+   ]
+  },
+  "s13": {
+   "text": "Und jetzt die Falle: Krakauer.",
+   "start": 29.849,
+   "end": 31.604,
+   "words": [
+    {
+     "w": "Und",
+     "s": 29.849,
+     "e": 29.981,
+     "score": 0.97
+    },
+    {
+     "w": "jetzt",
+     "s": 29.981,
+     "e": 30.113,
+     "score": 1.0
+    },
+    {
+     "w": "die",
+     "s": 30.113,
+     "e": 30.302,
+     "score": 0.998
+    },
+    {
+     "w": "Falle",
+     "s": 30.302,
+     "e": 30.736,
+     "score": 0.999
+    },
+    {
+     "w": "Krakauer",
+     "s": 30.736,
+     "e": 31.321,
+     "score": 0.947
+    }
+   ]
+  },
+  "s14": {
+   "text": "Die Krakauer! Die Krakauer ist grob, geräuchert und kommt mit viel Senf.",
+   "start": 32.83,
+   "end": 37.887,
+   "words": [
+    {
+     "w": "Die",
+     "s": 32.83,
+     "e": 32.981,
+     "score": 0.958
+    },
+    {
+     "w": "Krakauer",
+     "s": 32.981,
+     "e": 33.698,
+     "score": 0.964
+    },
+    {
+     "w": "Die",
+     "s": 33.811,
+     "e": 34.151,
+     "score": 1.0
+    },
+    {
+     "w": "Krakauer",
+     "s": 34.151,
+     "e": 34.66,
+     "score": 1.0
+    },
+    {
+     "w": "ist",
+     "s": 34.66,
+     "e": 34.887,
+     "score": 1.0
+    },
+    {
+     "w": "grob",
+     "s": 34.887,
+     "e": 35.453,
+     "score": 1.0
+    },
+    {
+     "w": "geräuchert",
+     "s": 35.453,
+     "e": 36.113,
+     "score": 0.999
+    },
+    {
+     "w": "und",
+     "s": 36.113,
+     "e": 36.302,
+     "score": 1.0
+    },
+    {
+     "w": "kommt",
+     "s": 36.302,
+     "e": 36.547,
+     "score": 1.0
+    },
+    {
+     "w": "mit",
+     "s": 36.547,
+     "e": 36.811,
+     "score": 1.0
+    },
+    {
+     "w": "viel",
+     "s": 36.811,
+     "e": 37.075,
+     "score": 1.0
+    },
+    {
+     "w": "Senf",
+     "s": 37.075,
+     "e": 37.604,
+     "score": 1.0
+    }
+   ]
+  },
+  "s15": {
+   "text": "Fünf von fünf? Dann hast du dir eine verdient.",
+   "start": 38.123,
+   "end": 41.179,
+   "words": [
+    {
+     "w": "Fünf",
+     "s": 38.123,
+     "e": 38.5,
+     "score": 0.828
+    },
+    {
+     "w": "von",
+     "s": 38.5,
+     "e": 38.67,
+     "score": 1.0
+    },
+    {
+     "w": "fünf",
+     "s": 38.67,
+     "e": 38.972,
+     "score": 0.974
+    },
+    {
+     "w": "Dann",
+     "s": 39.198,
+     "e": 39.443,
+     "score": 1.0
+    },
+    {
+     "w": "hast",
+     "s": 39.443,
+     "e": 39.821,
+     "score": 0.998
+    },
+    {
+     "w": "du",
+     "s": 39.821,
+     "e": 40.028,
+     "score": 0.965
+    },
+    {
+     "w": "dir",
+     "s": 40.028,
+     "e": 40.16,
+     "score": 0.999
+    },
+    {
+     "w": "eine",
+     "s": 40.16,
+     "e": 40.368,
+     "score": 0.999
+    },
+    {
+     "w": "verdient",
+     "s": 40.368,
+     "e": 40.896,
+     "score": 1.0
+    }
+   ]
+  },
+  "s16": {
+   "text": "Bald: noch mehr Fallen vom Weihnachtsmarkt.",
+   "start": 41.368,
+   "end": 44.443,
+   "words": [
+    {
+     "w": "Bald",
+     "s": 41.368,
+     "e": 41.651,
+     "score": 0.896
+    },
+    {
+     "w": "noch",
+     "s": 41.651,
+     "e": 42.274,
+     "score": 0.974
+    },
+    {
+     "w": "mehr",
+     "s": 42.274,
+     "e": 42.557,
+     "score": 1.0
+    },
+    {
+     "w": "Fallen",
+     "s": 42.557,
+     "e": 42.953,
+     "score": 0.92
+    },
+    {
+     "w": "vom",
+     "s": 42.953,
+     "e": 43.236,
+     "score": 1.0
+    },
+    {
+     "w": "Weihnachtsmarkt",
+     "s": 43.236,
+     "e": 44.16,
+     "score": 1.0
+    }
+   ]
+  },
+  "s17": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 44.585,
+   "end": 46.566,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 44.585,
+     "e": 44.887,
+     "score": 0.994
+    },
+    {
+     "w": "für",
+     "s": 44.887,
+     "e": 45.094,
+     "score": 0.996
+    },
+    {
+     "w": "mehr",
+     "s": 45.094,
+     "e": 45.358,
+     "score": 0.852
+    },
+    {
+     "w": "Wortbilder",
+     "s": 45.358,
+     "e": 46.283,
+     "score": 0.999
+    }
+   ]
+  }
+ },
+ "duration": 46.849
+}

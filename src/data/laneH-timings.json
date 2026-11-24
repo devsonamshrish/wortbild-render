@@ -1,0 +1,755 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.4,
+   "end": 6.81,
+   "lines": [
+    "s01",
+    "s03"
+   ]
+  },
+  {
+   "key": "p1",
+   "word": "bibbern",
+   "start": 6.81,
+   "end": 14.84,
+   "lines": [
+    "s04",
+    "s05"
+   ]
+  },
+  {
+   "key": "p2",
+   "word": "die Abzocke",
+   "start": 14.84,
+   "end": 23.39,
+   "lines": [
+    "s06",
+    "s07"
+   ]
+  },
+  {
+   "key": "p3",
+   "word": "einen sitzen haben",
+   "start": 23.39,
+   "end": 33.92,
+   "lines": [
+    "s08",
+    "s09"
+   ]
+  },
+  {
+   "key": "twist",
+   "word": "Mir ist saukalt.",
+   "start": 33.92,
+   "end": 39.83,
+   "lines": [
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "key": "payoff",
+   "word": null,
+   "start": 39.83,
+   "end": 43.24,
+   "lines": [
+    "s12"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 43.24,
+   "end": 49.0,
+   "lines": [
+    "s13",
+    "s14"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Sag das nie vor deiner Chefin!",
+   "start": 0.4,
+   "end": 2.56,
+   "words": [
+    {
+     "w": "Sag",
+     "s": 0.4,
+     "e": 0.62,
+     "score": 0.896
+    },
+    {
+     "w": "das",
+     "s": 0.62,
+     "e": 0.88,
+     "score": 0.984
+    },
+    {
+     "w": "nie",
+     "s": 0.88,
+     "e": 1.22,
+     "score": 0.998
+    },
+    {
+     "w": "vor",
+     "s": 1.22,
+     "e": 1.54,
+     "score": 0.999
+    },
+    {
+     "w": "deiner",
+     "s": 1.54,
+     "e": 1.88,
+     "score": 0.927
+    },
+    {
+     "w": "Chefin",
+     "s": 1.88,
+     "e": 2.26,
+     "score": 0.999
+    }
+   ]
+  },
+  "s03": {
+   "text": "Bleib bis zum Ende: Da rutscht es ausgerechnet ihr raus.",
+   "start": 2.81,
+   "end": 6.51,
+   "words": [
+    {
+     "w": "Bleib",
+     "s": 2.81,
+     "e": 3.17,
+     "score": 0.739
+    },
+    {
+     "w": "bis",
+     "s": 3.17,
+     "e": 3.29,
+     "score": 0.988
+    },
+    {
+     "w": "zum",
+     "s": 3.29,
+     "e": 3.53,
+     "score": 1.0
+    },
+    {
+     "w": "Ende",
+     "s": 3.53,
+     "e": 3.85,
+     "score": 1.0
+    },
+    {
+     "w": "Da",
+     "s": 4.01,
+     "e": 4.53,
+     "score": 0.999
+    },
+    {
+     "w": "rutscht",
+     "s": 4.53,
+     "e": 4.87,
+     "score": 1.0
+    },
+    {
+     "w": "es",
+     "s": 4.87,
+     "e": 4.99,
+     "score": 1.0
+    },
+    {
+     "w": "ausgerechnet",
+     "s": 4.99,
+     "e": 5.81,
+     "score": 0.996
+    },
+    {
+     "w": "ihr",
+     "s": 5.81,
+     "e": 5.95,
+     "score": 0.98
+    },
+    {
+     "w": "raus",
+     "s": 5.95,
+     "e": 6.21,
+     "score": 0.976
+    }
+   ]
+  },
+  "s04": {
+   "text": "Erstens: Dir ist kalt. Du denkst: Ich bibbere!",
+   "start": 6.81,
+   "end": 10.21,
+   "words": [
+    {
+     "w": "Erstens",
+     "s": 6.81,
+     "e": 7.39,
+     "score": 0.845
+    },
+    {
+     "w": "Dir",
+     "s": 7.41,
+     "e": 7.65,
+     "score": 0.974
+    },
+    {
+     "w": "ist",
+     "s": 7.65,
+     "e": 7.83,
+     "score": 1.0
+    },
+    {
+     "w": "kalt",
+     "s": 7.83,
+     "e": 8.37,
+     "score": 1.0
+    },
+    {
+     "w": "Du",
+     "s": 8.37,
+     "e": 8.79,
+     "score": 1.0
+    },
+    {
+     "w": "denkst",
+     "s": 8.79,
+     "e": 9.27,
+     "score": 1.0
+    },
+    {
+     "w": "Ich",
+     "s": 9.27,
+     "e": 9.45,
+     "score": 1.0
+    },
+    {
+     "w": "bibbere",
+     "s": 9.45,
+     "e": 9.95,
+     "score": 0.972
+    }
+   ]
+  },
+  "s05": {
+   "text": "Besser: Ich friere schon nach einer Viertelstunde.",
+   "start": 10.96,
+   "end": 14.54,
+   "words": [
+    {
+     "w": "Besser",
+     "s": 10.96,
+     "e": 11.36,
+     "score": 0.891
+    },
+    {
+     "w": "Ich",
+     "s": 11.4,
+     "e": 12.1,
+     "score": 0.997
+    },
+    {
+     "w": "friere",
+     "s": 12.1,
+     "e": 12.52,
+     "score": 0.813
+    },
+    {
+     "w": "schon",
+     "s": 12.52,
+     "e": 12.7,
+     "score": 1.0
+    },
+    {
+     "w": "nach",
+     "s": 12.7,
+     "e": 13.04,
+     "score": 1.0
+    },
+    {
+     "w": "einer",
+     "s": 13.04,
+     "e": 13.34,
+     "score": 0.999
+    },
+    {
+     "w": "Viertelstunde",
+     "s": 13.34,
+     "e": 14.24,
+     "score": 0.997
+    }
+   ]
+  },
+  "s06": {
+   "text": "Zweitens: Die Chefin zahlt. Du denkst: Abzocke!",
+   "start": 14.84,
+   "end": 18.44,
+   "words": [
+    {
+     "w": "Zweitens",
+     "s": 14.84,
+     "e": 15.48,
+     "score": 0.956
+    },
+    {
+     "w": "Die",
+     "s": 15.48,
+     "e": 15.64,
+     "score": 0.995
+    },
+    {
+     "w": "Chefin",
+     "s": 15.64,
+     "e": 16.02,
+     "score": 0.999
+    },
+    {
+     "w": "zahlt",
+     "s": 16.02,
+     "e": 16.48,
+     "score": 0.999
+    },
+    {
+     "w": "Du",
+     "s": 16.58,
+     "e": 17.02,
+     "score": 0.985
+    },
+    {
+     "w": "denkst",
+     "s": 17.02,
+     "e": 17.46,
+     "score": 1.0
+    },
+    {
+     "w": "Abzocke",
+     "s": 17.46,
+     "e": 18.14,
+     "score": 0.916
+    }
+   ]
+  },
+  "s07": {
+   "text": "Besser: Der Glühwein ist hier ziemlich überteuert.",
+   "start": 19.19,
+   "end": 23.09,
+   "words": [
+    {
+     "w": "Besser",
+     "s": 19.19,
+     "e": 19.57,
+     "score": 0.979
+    },
+    {
+     "w": "Der",
+     "s": 19.63,
+     "e": 20.27,
+     "score": 1.0
+    },
+    {
+     "w": "Glühwein",
+     "s": 20.27,
+     "e": 20.89,
+     "score": 0.999
+    },
+    {
+     "w": "ist",
+     "s": 20.89,
+     "e": 21.05,
+     "score": 1.0
+    },
+    {
+     "w": "hier",
+     "s": 21.05,
+     "e": 21.31,
+     "score": 1.0
+    },
+    {
+     "w": "ziemlich",
+     "s": 21.31,
+     "e": 21.79,
+     "score": 1.0
+    },
+    {
+     "w": "überteuert",
+     "s": 21.79,
+     "e": 22.79,
+     "score": 0.998
+    }
+   ]
+  },
+  "s08": {
+   "text": "Jetzt wird es heikel. Ein Kollege schwankt. Du denkst: Der hat einen sitzen!",
+   "start": 23.39,
+   "end": 28.77,
+   "words": [
+    {
+     "w": "Jetzt",
+     "s": 23.39,
+     "e": 23.65,
+     "score": 0.977
+    },
+    {
+     "w": "wird",
+     "s": 23.65,
+     "e": 23.91,
+     "score": 0.999
+    },
+    {
+     "w": "es",
+     "s": 23.91,
+     "e": 24.09,
+     "score": 1.0
+    },
+    {
+     "w": "heikel",
+     "s": 24.09,
+     "e": 24.63,
+     "score": 0.999
+    },
+    {
+     "w": "Ein",
+     "s": 24.71,
+     "e": 25.03,
+     "score": 0.997
+    },
+    {
+     "w": "Kollege",
+     "s": 25.03,
+     "e": 25.39,
+     "score": 1.0
+    },
+    {
+     "w": "schwankt",
+     "s": 25.39,
+     "e": 26.15,
+     "score": 1.0
+    },
+    {
+     "w": "Du",
+     "s": 26.15,
+     "e": 26.71,
+     "score": 0.933
+    },
+    {
+     "w": "denkst",
+     "s": 26.71,
+     "e": 27.27,
+     "score": 1.0
+    },
+    {
+     "w": "Der",
+     "s": 27.27,
+     "e": 27.43,
+     "score": 0.999
+    },
+    {
+     "w": "hat",
+     "s": 27.43,
+     "e": 27.59,
+     "score": 1.0
+    },
+    {
+     "w": "einen",
+     "s": 27.59,
+     "e": 27.89,
+     "score": 1.0
+    },
+    {
+     "w": "sitzen",
+     "s": 27.89,
+     "e": 28.47,
+     "score": 0.979
+    }
+   ]
+  },
+  "s09": {
+   "text": "Besser: Er ist schon etwas angetrunken, wir sollten ihn heimbringen.",
+   "start": 29.52,
+   "end": 33.62,
+   "words": [
+    {
+     "w": "Besser",
+     "s": 29.52,
+     "e": 29.9,
+     "score": 0.872
+    },
+    {
+     "w": "Er",
+     "s": 29.96,
+     "e": 30.62,
+     "score": 1.0
+    },
+    {
+     "w": "ist",
+     "s": 30.62,
+     "e": 30.78,
+     "score": 1.0
+    },
+    {
+     "w": "schon",
+     "s": 30.78,
+     "e": 30.94,
+     "score": 1.0
+    },
+    {
+     "w": "etwas",
+     "s": 30.94,
+     "e": 31.22,
+     "score": 1.0
+    },
+    {
+     "w": "angetrunken",
+     "s": 31.22,
+     "e": 32.08,
+     "score": 1.0
+    },
+    {
+     "w": "wir",
+     "s": 32.08,
+     "e": 32.24,
+     "score": 0.999
+    },
+    {
+     "w": "sollten",
+     "s": 32.24,
+     "e": 32.6,
+     "score": 1.0
+    },
+    {
+     "w": "ihn",
+     "s": 32.6,
+     "e": 32.8,
+     "score": 1.0
+    },
+    {
+     "w": "heimbringen",
+     "s": 32.8,
+     "e": 33.32,
+     "score": 1.0
+    }
+   ]
+  },
+  "s10": {
+   "text": "Und dann sagt die Chefin:",
+   "start": 33.92,
+   "end": 35.54,
+   "words": [
+    {
+     "w": "Und",
+     "s": 33.92,
+     "e": 34.08,
+     "score": 0.931
+    },
+    {
+     "w": "dann",
+     "s": 34.08,
+     "e": 34.28,
+     "score": 1.0
+    },
+    {
+     "w": "sagt",
+     "s": 34.28,
+     "e": 34.64,
+     "score": 0.921
+    },
+    {
+     "w": "die",
+     "s": 34.64,
+     "e": 34.84,
+     "score": 1.0
+    },
+    {
+     "w": "Chefin",
+     "s": 34.84,
+     "e": 35.24,
+     "score": 0.999
+    }
+   ]
+  },
+  "s11": {
+   "text": "Mir ist saukalt. Gehen wir zum Feuerkorb?",
+   "start": 35.79,
+   "end": 39.53,
+   "words": [
+    {
+     "w": "Mir",
+     "s": 35.79,
+     "e": 35.97,
+     "score": 0.702
+    },
+    {
+     "w": "ist",
+     "s": 35.97,
+     "e": 36.19,
+     "score": 1.0
+    },
+    {
+     "w": "saukalt",
+     "s": 36.19,
+     "e": 36.91,
+     "score": 0.933
+    },
+    {
+     "w": "Gehen",
+     "s": 37.33,
+     "e": 37.85,
+     "score": 0.993
+    },
+    {
+     "w": "wir",
+     "s": 37.85,
+     "e": 37.99,
+     "score": 1.0
+    },
+    {
+     "w": "zum",
+     "s": 37.99,
+     "e": 38.29,
+     "score": 1.0
+    },
+    {
+     "w": "Feuerkorb",
+     "s": 38.29,
+     "e": 39.23,
+     "score": 0.998
+    }
+   ]
+  },
+  "s12": {
+   "text": "Na also. Jetzt darfst du auch sagen: Ich bibbere!",
+   "start": 39.83,
+   "end": 42.99,
+   "words": [
+    {
+     "w": "Na",
+     "s": 39.83,
+     "e": 39.99,
+     "score": 0.85
+    },
+    {
+     "w": "also",
+     "s": 39.99,
+     "e": 40.29,
+     "score": 0.997
+    },
+    {
+     "w": "Jetzt",
+     "s": 40.43,
+     "e": 40.99,
+     "score": 0.999
+    },
+    {
+     "w": "darfst",
+     "s": 40.99,
+     "e": 41.41,
+     "score": 0.999
+    },
+    {
+     "w": "du",
+     "s": 41.41,
+     "e": 41.47,
+     "score": 0.979
+    },
+    {
+     "w": "auch",
+     "s": 41.47,
+     "e": 41.59,
+     "score": 0.988
+    },
+    {
+     "w": "sagen",
+     "s": 41.59,
+     "e": 42.01,
+     "score": 1.0
+    },
+    {
+     "w": "Ich",
+     "s": 42.09,
+     "e": 42.29,
+     "score": 0.999
+    },
+    {
+     "w": "bibbere",
+     "s": 42.29,
+     "e": 42.75,
+     "score": 0.951
+    }
+   ]
+  },
+  "s13": {
+   "text": "Morgen: noch mehr Glühwein-Momente.",
+   "start": 43.24,
+   "end": 46.0,
+   "words": [
+    {
+     "w": "Morgen",
+     "s": 43.24,
+     "e": 43.68,
+     "score": 0.944
+    },
+    {
+     "w": "noch",
+     "s": 43.68,
+     "e": 44.14,
+     "score": 0.999
+    },
+    {
+     "w": "mehr",
+     "s": 44.14,
+     "e": 44.42,
+     "score": 0.999
+    },
+    {
+     "w": "Glühwein",
+     "s": 44.42,
+     "e": 45.2,
+     "score": 0.999
+    },
+    {
+     "w": "-Momente.",
+     "s": 45.2,
+     "e": 45.7,
+     "score": 0.955
+    }
+   ]
+  },
+  "s14": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 46.2,
+   "end": 48.3,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 46.2,
+     "e": 46.52,
+     "score": 0.994
+    },
+    {
+     "w": "für",
+     "s": 46.52,
+     "e": 46.74,
+     "score": 0.996
+    },
+    {
+     "w": "mehr",
+     "s": 46.74,
+     "e": 47.02,
+     "score": 0.852
+    },
+    {
+     "w": "Wortbilder",
+     "s": 47.02,
+     "e": 48.0,
+     "score": 0.999
+    }
+   ]
+  }
+ },
+ "duration": 49.0
+}

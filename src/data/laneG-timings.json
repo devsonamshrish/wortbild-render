@@ -1,0 +1,751 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.4,
+   "end": 5.32,
+   "lines": [
+    "s01",
+    "s02"
+   ]
+  },
+  {
+   "key": "bude",
+   "word": "die Bude",
+   "start": 5.32,
+   "end": 12.96,
+   "lines": [
+    "s03",
+    "s04"
+   ]
+  },
+  {
+   "key": "topf",
+   "word": "der Glühweintopf",
+   "start": 12.96,
+   "end": 22.18,
+   "lines": [
+    "s05",
+    "s06"
+   ]
+  },
+  {
+   "key": "maennchen",
+   "word": "das Räuchermännchen",
+   "start": 22.18,
+   "end": 32.9,
+   "lines": [
+    "s07",
+    "s08"
+   ]
+  },
+  {
+   "key": "wurst",
+   "word": "die Thüringer",
+   "start": 32.9,
+   "end": 43.14,
+   "lines": [
+    "s09",
+    "s10"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 43.14,
+   "end": 49.7,
+   "lines": [
+    "s12",
+    "s13"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Auf jedem Schild steckt ein Fehler.",
+   "start": 0.4,
+   "end": 2.46,
+   "words": [
+    {
+     "w": "Auf",
+     "s": 0.4,
+     "e": 0.54,
+     "score": 0.989
+    },
+    {
+     "w": "jedem",
+     "s": 0.54,
+     "e": 0.92,
+     "score": 0.999
+    },
+    {
+     "w": "Schild",
+     "s": 0.92,
+     "e": 1.32,
+     "score": 1.0
+    },
+    {
+     "w": "steckt",
+     "s": 1.32,
+     "e": 1.66,
+     "score": 0.999
+    },
+    {
+     "w": "ein",
+     "s": 1.66,
+     "e": 1.82,
+     "score": 1.0
+    },
+    {
+     "w": "Fehler",
+     "s": 1.82,
+     "e": 2.16,
+     "score": 0.999
+    }
+   ]
+  },
+  "s02": {
+   "text": "Beim letzten suchst du an der falschen Stelle.",
+   "start": 2.66,
+   "end": 5.02,
+   "words": [
+    {
+     "w": "Beim",
+     "s": 2.66,
+     "e": 2.8,
+     "score": 0.992
+    },
+    {
+     "w": "letzten",
+     "s": 2.8,
+     "e": 3.16,
+     "score": 0.973
+    },
+    {
+     "w": "suchst",
+     "s": 3.16,
+     "e": 3.64,
+     "score": 0.991
+    },
+    {
+     "w": "du",
+     "s": 3.64,
+     "e": 3.76,
+     "score": 0.763
+    },
+    {
+     "w": "an",
+     "s": 3.76,
+     "e": 3.9,
+     "score": 0.999
+    },
+    {
+     "w": "der",
+     "s": 3.9,
+     "e": 4.04,
+     "score": 1.0
+    },
+    {
+     "w": "falschen",
+     "s": 4.04,
+     "e": 4.5,
+     "score": 0.999
+    },
+    {
+     "w": "Stelle",
+     "s": 4.5,
+     "e": 4.72,
+     "score": 1.0
+    }
+   ]
+  },
+  "s03": {
+   "text": "Das Bude neben dem Brunnen hat schon geöffnet.",
+   "start": 5.32,
+   "end": 8.36,
+   "words": [
+    {
+     "w": "Das",
+     "s": 5.32,
+     "e": 5.44,
+     "score": 0.97
+    },
+    {
+     "w": "Bude",
+     "s": 5.44,
+     "e": 5.9,
+     "score": 0.996
+    },
+    {
+     "w": "neben",
+     "s": 5.9,
+     "e": 6.14,
+     "score": 0.998
+    },
+    {
+     "w": "dem",
+     "s": 6.14,
+     "e": 6.5,
+     "score": 0.998
+    },
+    {
+     "w": "Brunnen",
+     "s": 6.5,
+     "e": 6.9,
+     "score": 1.0
+    },
+    {
+     "w": "hat",
+     "s": 6.9,
+     "e": 7.08,
+     "score": 0.999
+    },
+    {
+     "w": "schon",
+     "s": 7.08,
+     "e": 7.32,
+     "score": 0.999
+    },
+    {
+     "w": "geöffnet",
+     "s": 7.32,
+     "e": 8.06,
+     "score": 1.0
+    }
+   ]
+  },
+  "s04": {
+   "text": "Die Bude neben dem Brunnen hat schon geöffnet.",
+   "start": 9.96,
+   "end": 12.66,
+   "words": [
+    {
+     "w": "Die",
+     "s": 9.96,
+     "e": 10.04,
+     "score": 0.924
+    },
+    {
+     "w": "Bude",
+     "s": 10.04,
+     "e": 10.34,
+     "score": 0.998
+    },
+    {
+     "w": "neben",
+     "s": 10.34,
+     "e": 10.56,
+     "score": 1.0
+    },
+    {
+     "w": "dem",
+     "s": 10.56,
+     "e": 10.84,
+     "score": 0.999
+    },
+    {
+     "w": "Brunnen",
+     "s": 10.84,
+     "e": 11.2,
+     "score": 0.998
+    },
+    {
+     "w": "hat",
+     "s": 11.2,
+     "e": 11.36,
+     "score": 1.0
+    },
+    {
+     "w": "schon",
+     "s": 11.36,
+     "e": 11.58,
+     "score": 0.995
+    },
+    {
+     "w": "geöffnet",
+     "s": 11.58,
+     "e": 12.36,
+     "score": 1.0
+    }
+   ]
+  },
+  "s05": {
+   "text": "Das Glühweintopf steht den ganzen Abend auf der Heizplatte.",
+   "start": 12.96,
+   "end": 16.68,
+   "words": [
+    {
+     "w": "Das",
+     "s": 12.96,
+     "e": 13.1,
+     "score": 0.95
+    },
+    {
+     "w": "Glühweintopf",
+     "s": 13.1,
+     "e": 13.84,
+     "score": 0.996
+    },
+    {
+     "w": "steht",
+     "s": 13.84,
+     "e": 14.08,
+     "score": 1.0
+    },
+    {
+     "w": "den",
+     "s": 14.08,
+     "e": 14.3,
+     "score": 1.0
+    },
+    {
+     "w": "ganzen",
+     "s": 14.3,
+     "e": 14.74,
+     "score": 1.0
+    },
+    {
+     "w": "Abend",
+     "s": 14.74,
+     "e": 15.18,
+     "score": 0.999
+    },
+    {
+     "w": "auf",
+     "s": 15.18,
+     "e": 15.46,
+     "score": 1.0
+    },
+    {
+     "w": "der",
+     "s": 15.46,
+     "e": 15.64,
+     "score": 1.0
+    },
+    {
+     "w": "Heizplatte",
+     "s": 15.64,
+     "e": 16.38,
+     "score": 1.0
+    }
+   ]
+  },
+  "s06": {
+   "text": "Der Glühweintopf steht den ganzen Abend auf der Heizplatte.",
+   "start": 18.28,
+   "end": 21.88,
+   "words": [
+    {
+     "w": "Der",
+     "s": 18.28,
+     "e": 18.36,
+     "score": 0.983
+    },
+    {
+     "w": "Glühweintopf",
+     "s": 18.36,
+     "e": 19.06,
+     "score": 0.996
+    },
+    {
+     "w": "steht",
+     "s": 19.06,
+     "e": 19.34,
+     "score": 1.0
+    },
+    {
+     "w": "den",
+     "s": 19.34,
+     "e": 19.64,
+     "score": 1.0
+    },
+    {
+     "w": "ganzen",
+     "s": 19.64,
+     "e": 20.04,
+     "score": 1.0
+    },
+    {
+     "w": "Abend",
+     "s": 20.04,
+     "e": 20.48,
+     "score": 1.0
+    },
+    {
+     "w": "auf",
+     "s": 20.48,
+     "e": 20.72,
+     "score": 1.0
+    },
+    {
+     "w": "der",
+     "s": 20.72,
+     "e": 20.86,
+     "score": 1.0
+    },
+    {
+     "w": "Heizplatte",
+     "s": 20.86,
+     "e": 21.58,
+     "score": 1.0
+    }
+   ]
+  },
+  "s07": {
+   "text": "Der Räuchermännchen qualmt aus dem Mund, sobald die Kerze brennt.",
+   "start": 22.18,
+   "end": 26.48,
+   "words": [
+    {
+     "w": "Der",
+     "s": 22.18,
+     "e": 22.26,
+     "score": 0.822
+    },
+    {
+     "w": "Räuchermännchen",
+     "s": 22.26,
+     "e": 23.14,
+     "score": 0.997
+    },
+    {
+     "w": "qualmt",
+     "s": 23.14,
+     "e": 23.66,
+     "score": 0.968
+    },
+    {
+     "w": "aus",
+     "s": 23.66,
+     "e": 23.8,
+     "score": 1.0
+    },
+    {
+     "w": "dem",
+     "s": 23.8,
+     "e": 24.04,
+     "score": 1.0
+    },
+    {
+     "w": "Mund",
+     "s": 24.04,
+     "e": 24.32,
+     "score": 1.0
+    },
+    {
+     "w": "sobald",
+     "s": 24.46,
+     "e": 25.12,
+     "score": 0.994
+    },
+    {
+     "w": "die",
+     "s": 25.12,
+     "e": 25.2,
+     "score": 1.0
+    },
+    {
+     "w": "Kerze",
+     "s": 25.2,
+     "e": 25.66,
+     "score": 1.0
+    },
+    {
+     "w": "brennt",
+     "s": 25.66,
+     "e": 26.18,
+     "score": 1.0
+    }
+   ]
+  },
+  "s08": {
+   "text": "Das Räuchermännchen qualmt aus dem Mund, sobald die Kerze brennt.",
+   "start": 28.08,
+   "end": 32.6,
+   "words": [
+    {
+     "w": "Das",
+     "s": 28.08,
+     "e": 28.22,
+     "score": 0.897
+    },
+    {
+     "w": "Räuchermännchen",
+     "s": 28.22,
+     "e": 29.16,
+     "score": 0.997
+    },
+    {
+     "w": "qualmt",
+     "s": 29.16,
+     "e": 29.7,
+     "score": 1.0
+    },
+    {
+     "w": "aus",
+     "s": 29.7,
+     "e": 29.86,
+     "score": 1.0
+    },
+    {
+     "w": "dem",
+     "s": 29.86,
+     "e": 30.12,
+     "score": 1.0
+    },
+    {
+     "w": "Mund",
+     "s": 30.12,
+     "e": 30.44,
+     "score": 1.0
+    },
+    {
+     "w": "sobald",
+     "s": 30.54,
+     "e": 31.14,
+     "score": 0.996
+    },
+    {
+     "w": "die",
+     "s": 31.14,
+     "e": 31.24,
+     "score": 1.0
+    },
+    {
+     "w": "Kerze",
+     "s": 31.24,
+     "e": 31.72,
+     "score": 1.0
+    },
+    {
+     "w": "brennt",
+     "s": 31.72,
+     "e": 32.3,
+     "score": 1.0
+    }
+   ]
+  },
+  "s09": {
+   "text": "Die Thüringer ist so lang, dass sie links und rechts aus der Brötchen hängt.",
+   "start": 32.9,
+   "end": 37.18,
+   "words": [
+    {
+     "w": "Die",
+     "s": 32.9,
+     "e": 32.98,
+     "score": 0.864
+    },
+    {
+     "w": "Thüringer",
+     "s": 32.98,
+     "e": 33.4,
+     "score": 0.985
+    },
+    {
+     "w": "ist",
+     "s": 33.4,
+     "e": 33.58,
+     "score": 0.997
+    },
+    {
+     "w": "so",
+     "s": 33.58,
+     "e": 33.84,
+     "score": 1.0
+    },
+    {
+     "w": "lang",
+     "s": 33.84,
+     "e": 34.06,
+     "score": 1.0
+    },
+    {
+     "w": "dass",
+     "s": 34.26,
+     "e": 34.78,
+     "score": 0.856
+    },
+    {
+     "w": "sie",
+     "s": 34.78,
+     "e": 34.9,
+     "score": 1.0
+    },
+    {
+     "w": "links",
+     "s": 34.9,
+     "e": 35.16,
+     "score": 1.0
+    },
+    {
+     "w": "und",
+     "s": 35.16,
+     "e": 35.36,
+     "score": 1.0
+    },
+    {
+     "w": "rechts",
+     "s": 35.36,
+     "e": 35.7,
+     "score": 1.0
+    },
+    {
+     "w": "aus",
+     "s": 35.7,
+     "e": 35.9,
+     "score": 1.0
+    },
+    {
+     "w": "der",
+     "s": 35.9,
+     "e": 36.06,
+     "score": 1.0
+    },
+    {
+     "w": "Brötchen",
+     "s": 36.06,
+     "e": 36.56,
+     "score": 0.997
+    },
+    {
+     "w": "hängt",
+     "s": 36.56,
+     "e": 36.88,
+     "score": 1.0
+    }
+   ]
+  },
+  "s10": {
+   "text": "Die Thüringer stimmt! Der Fehler: aus dem Brötchen.",
+   "start": 39.08,
+   "end": 42.54,
+   "words": [
+    {
+     "w": "Die",
+     "s": 39.08,
+     "e": 39.22,
+     "score": 0.812
+    },
+    {
+     "w": "Thüringer",
+     "s": 39.22,
+     "e": 39.74,
+     "score": 0.996
+    },
+    {
+     "w": "stimmt",
+     "s": 39.74,
+     "e": 39.98,
+     "score": 0.964
+    },
+    {
+     "w": "Der",
+     "s": 40.44,
+     "e": 40.8,
+     "score": 0.994
+    },
+    {
+     "w": "Fehler",
+     "s": 40.8,
+     "e": 41.16,
+     "score": 0.979
+    },
+    {
+     "w": "aus",
+     "s": 41.16,
+     "e": 41.48,
+     "score": 0.999
+    },
+    {
+     "w": "dem",
+     "s": 41.48,
+     "e": 41.68,
+     "score": 0.998
+    },
+    {
+     "w": "Brötchen",
+     "s": 41.68,
+     "e": 42.24,
+     "score": 1.0
+    }
+   ]
+  },
+  "s12": {
+   "text": "Morgen: noch mehr Fallen vom Weihnachtsmarkt.",
+   "start": 43.14,
+   "end": 46.56,
+   "words": [
+    {
+     "w": "Morgen",
+     "s": 43.14,
+     "e": 43.6,
+     "score": 0.931
+    },
+    {
+     "w": "noch",
+     "s": 43.6,
+     "e": 44.42,
+     "score": 0.98
+    },
+    {
+     "w": "mehr",
+     "s": 44.42,
+     "e": 44.66,
+     "score": 0.986
+    },
+    {
+     "w": "Fallen",
+     "s": 44.66,
+     "e": 45.2,
+     "score": 0.754
+    },
+    {
+     "w": "vom",
+     "s": 45.2,
+     "e": 45.34,
+     "score": 0.996
+    },
+    {
+     "w": "Weihnachtsmarkt",
+     "s": 45.34,
+     "e": 46.26,
+     "score": 0.999
+    }
+   ]
+  },
+  "s13": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 46.76,
+   "end": 48.8,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 46.76,
+     "e": 47.08,
+     "score": 0.994
+    },
+    {
+     "w": "für",
+     "s": 47.08,
+     "e": 47.3,
+     "score": 0.995
+    },
+    {
+     "w": "mehr",
+     "s": 47.3,
+     "e": 47.58,
+     "score": 0.848
+    },
+    {
+     "w": "Wortbilder",
+     "s": 47.58,
+     "e": 48.5,
+     "score": 0.999
+    }
+   ]
+  }
+ },
+ "duration": 49.7
+}

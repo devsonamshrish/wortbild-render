@@ -1,0 +1,581 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.4,
+   "end": 3.58,
+   "lines": [
+    "s01"
+   ]
+  },
+  {
+   "key": "schatz",
+   "word": "der Schatz",
+   "start": 3.58,
+   "end": 10.52,
+   "lines": [
+    "s02",
+    "s03"
+   ]
+  },
+  {
+   "key": "brille",
+   "word": "die Brille",
+   "start": 10.52,
+   "end": 17.78,
+   "lines": [
+    "s04",
+    "s05"
+   ]
+  },
+  {
+   "key": "fell",
+   "word": "das Fell",
+   "start": 17.78,
+   "end": 23.56,
+   "lines": [
+    "s06",
+    "s07"
+   ]
+  },
+  {
+   "key": "frieden",
+   "word": "der Frieden",
+   "start": 23.56,
+   "end": 30.26,
+   "lines": [
+    "s08",
+    "s09"
+   ]
+  },
+  {
+   "key": "traene",
+   "word": "die Träne",
+   "start": 30.26,
+   "end": 36.92,
+   "lines": [
+    "s10",
+    "s11"
+   ]
+  },
+  {
+   "key": "heimweh",
+   "word": "das Heimweh",
+   "start": 36.92,
+   "end": 42.9,
+   "lines": [
+    "s12",
+    "s13"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 42.9,
+   "end": 49.2,
+   "lines": [
+    "s14",
+    "s15"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Rate mit: der, die oder das?",
+   "start": 0.4,
+   "end": 3.08,
+   "words": [
+    {
+     "w": "Rate",
+     "s": 0.72,
+     "e": 0.95,
+     "score": 0.512
+    },
+    {
+     "w": "mit",
+     "s": 1.11,
+     "e": 1.19,
+     "score": 0.982
+    },
+    {
+     "w": "der",
+     "s": 1.5,
+     "e": 1.58,
+     "score": 0.958
+    },
+    {
+     "w": "die",
+     "s": 2.13,
+     "e": 2.21,
+     "score": 0.909
+    },
+    {
+     "w": "oder",
+     "s": 2.45,
+     "e": 2.53,
+     "score": 0.993
+    },
+    {
+     "w": "das",
+     "s": 2.76,
+     "e": 2.84,
+     "score": 0.917
+    }
+   ]
+  },
+  "s02": {
+   "text": "Schatz.",
+   "start": 3.58,
+   "end": 4.66,
+   "words": [
+    {
+     "w": "Schatz",
+     "s": 3.89,
+     "e": 4.2,
+     "score": 0.009
+    }
+   ]
+  },
+  "s03": {
+   "text": "Der Schatz: liebevolle Anrede für den Partner.",
+   "start": 5.86,
+   "end": 10.02,
+   "words": [
+    {
+     "w": "Der",
+     "s": 6.02,
+     "e": 6.1,
+     "score": 0.69
+    },
+    {
+     "w": "Schatz",
+     "s": 6.26,
+     "e": 6.5,
+     "score": 0.817
+    },
+    {
+     "w": "liebevolle",
+     "s": 7.06,
+     "e": 7.46,
+     "score": 0.561
+    },
+    {
+     "w": "Anrede",
+     "s": 7.7,
+     "e": 8.18,
+     "score": 0.824
+    },
+    {
+     "w": "für",
+     "s": 8.26,
+     "e": 8.34,
+     "score": 0.981
+    },
+    {
+     "w": "den",
+     "s": 8.42,
+     "e": 8.5,
+     "score": 0.984
+    },
+    {
+     "w": "Partner",
+     "s": 8.66,
+     "e": 8.74,
+     "score": 0.545
+    }
+   ]
+  },
+  "s04": {
+   "text": "Und jetzt: Brille.",
+   "start": 10.52,
+   "end": 12.2,
+   "words": [
+    {
+     "w": "Und",
+     "s": 10.6,
+     "e": 10.68,
+     "score": 0.018
+    },
+    {
+     "w": "jetzt",
+     "s": 10.92,
+     "e": 11.0,
+     "score": 0.254
+    },
+    {
+     "w": "Brille",
+     "s": 11.56,
+     "e": 11.88,
+     "score": 0.55
+    }
+   ]
+  },
+  "s05": {
+   "text": "Die Brille: Sehhilfe, hier: Sicht auf die Dinge.",
+   "start": 13.4,
+   "end": 17.28,
+   "words": [
+    {
+     "w": "Die",
+     "s": 13.56,
+     "e": 13.64,
+     "score": 0.576
+    },
+    {
+     "w": "Brille",
+     "s": 13.8,
+     "e": 14.13,
+     "score": 0.963
+    },
+    {
+     "w": "Sehhilfe",
+     "s": 14.53,
+     "e": 14.94,
+     "score": 0.353
+    },
+    {
+     "w": "hier",
+     "s": 15.5,
+     "e": 15.58,
+     "score": 0.781
+    },
+    {
+     "w": "Sicht",
+     "s": 16.07,
+     "e": 16.15,
+     "score": 0.456
+    },
+    {
+     "w": "auf",
+     "s": 16.39,
+     "e": 16.47,
+     "score": 0.993
+    },
+    {
+     "w": "die",
+     "s": 16.55,
+     "e": 16.63,
+     "score": 0.991
+    },
+    {
+     "w": "Dinge",
+     "s": 16.71,
+     "e": 16.8,
+     "score": 0.918
+    }
+   ]
+  },
+  "s06": {
+   "text": "Und jetzt: Fell.",
+   "start": 17.78,
+   "end": 19.3,
+   "words": [
+    {
+     "w": "Und",
+     "s": 17.94,
+     "e": 18.02,
+     "score": 0.004
+    },
+    {
+     "w": "jetzt",
+     "s": 18.18,
+     "e": 18.26,
+     "score": 0.017
+    },
+    {
+     "w": "Fell",
+     "s": 18.9,
+     "e": 19.14,
+     "score": 0.001
+    }
+   ]
+  },
+  "s07": {
+   "text": "Das Fell: Haarkleid von Tieren.",
+   "start": 20.5,
+   "end": 23.06,
+   "words": [
+    {
+     "w": "Das",
+     "s": 20.66,
+     "e": 20.74,
+     "score": 0.534
+    },
+    {
+     "w": "Fell",
+     "s": 20.98,
+     "e": 21.14,
+     "score": 0.412
+    },
+    {
+     "w": "Haarkleid",
+     "s": 21.46,
+     "e": 21.94,
+     "score": 0.607
+    },
+    {
+     "w": "von",
+     "s": 22.1,
+     "e": 22.18,
+     "score": 0.998
+    },
+    {
+     "w": "Tieren",
+     "s": 22.34,
+     "e": 22.66,
+     "score": 0.605
+    }
+   ]
+  },
+  "s08": {
+   "text": "Und jetzt: Frieden.",
+   "start": 23.56,
+   "end": 25.36,
+   "words": [
+    {
+     "w": "Und",
+     "s": 23.64,
+     "e": 23.72,
+     "score": 0.017
+    },
+    {
+     "w": "jetzt",
+     "s": 23.97,
+     "e": 24.05,
+     "score": 0.048
+    },
+    {
+     "w": "Frieden",
+     "s": 24.71,
+     "e": 24.79,
+     "score": 0.081
+    }
+   ]
+  },
+  "s09": {
+   "text": "Der Frieden: Zustand ohne Streit.",
+   "start": 26.56,
+   "end": 29.76,
+   "words": [
+    {
+     "w": "Der",
+     "s": 26.8,
+     "e": 26.88,
+     "score": 0.604
+    },
+    {
+     "w": "Frieden",
+     "s": 27.04,
+     "e": 27.12,
+     "score": 0.715
+    },
+    {
+     "w": "Zustand",
+     "s": 28.24,
+     "e": 28.32,
+     "score": 0.606
+    },
+    {
+     "w": "ohne",
+     "s": 28.64,
+     "e": 28.72,
+     "score": 0.997
+    },
+    {
+     "w": "Streit",
+     "s": 28.96,
+     "e": 29.2,
+     "score": 0.634
+    }
+   ]
+  },
+  "s10": {
+   "text": "Träne.",
+   "start": 30.26,
+   "end": 31.26,
+   "words": [
+    {
+     "w": "Träne",
+     "s": 30.51,
+     "e": 30.93,
+     "score": 0.001
+    }
+   ]
+  },
+  "s11": {
+   "text": "Die Träne: Wassertropfen im Auge beim Weinen.",
+   "start": 32.46,
+   "end": 36.42,
+   "words": [
+    {
+     "w": "Die",
+     "s": 32.62,
+     "e": 32.7,
+     "score": 0.778
+    },
+    {
+     "w": "Träne",
+     "s": 32.78,
+     "e": 33.17,
+     "score": 0.507
+    },
+    {
+     "w": "Wassertropfen",
+     "s": 33.81,
+     "e": 34.52,
+     "score": 0.932
+    },
+    {
+     "w": "im",
+     "s": 34.76,
+     "e": 34.84,
+     "score": 0.996
+    },
+    {
+     "w": "Auge",
+     "s": 34.99,
+     "e": 35.23,
+     "score": 0.966
+    },
+    {
+     "w": "beim",
+     "s": 35.39,
+     "e": 35.47,
+     "score": 0.999
+    },
+    {
+     "w": "Weinen",
+     "s": 35.63,
+     "e": 35.94,
+     "score": 0.96
+    }
+   ]
+  },
+  "s12": {
+   "text": "Heimweh.",
+   "start": 36.92,
+   "end": 38.04,
+   "words": [
+    {
+     "w": "Heimweh",
+     "s": 37.16,
+     "e": 37.72,
+     "score": 0.153
+    }
+   ]
+  },
+  "s13": {
+   "text": "Das Heimweh: Sehnsucht nach dem Zuhause.",
+   "start": 39.24,
+   "end": 42.2,
+   "words": [
+    {
+     "w": "Das",
+     "s": 39.4,
+     "e": 39.48,
+     "score": 0.51
+    },
+    {
+     "w": "Heimweh",
+     "s": 39.64,
+     "e": 40.12,
+     "score": 0.851
+    },
+    {
+     "w": "Sehnsucht",
+     "s": 40.68,
+     "e": 41.08,
+     "score": 0.323
+    },
+    {
+     "w": "nach",
+     "s": 41.24,
+     "e": 41.32,
+     "score": 0.928
+    },
+    {
+     "w": "dem",
+     "s": 41.4,
+     "e": 41.48,
+     "score": 0.678
+    },
+    {
+     "w": "Zuhause",
+     "s": 41.64,
+     "e": 42.2,
+     "score": 0.136
+    }
+   ]
+  },
+  "s14": {
+   "text": "Wie viele hattest du richtig?",
+   "start": 42.9,
+   "end": 45.18,
+   "words": [
+    {
+     "w": "Wie",
+     "s": 43.06,
+     "e": 43.14,
+     "score": 0.004
+    },
+    {
+     "w": "viele",
+     "s": 43.39,
+     "e": 43.47,
+     "score": 0.757
+    },
+    {
+     "w": "hattest",
+     "s": 43.8,
+     "e": 44.04,
+     "score": 0.977
+    },
+    {
+     "w": "du",
+     "s": 44.12,
+     "e": 44.2,
+     "score": 0.995
+    },
+    {
+     "w": "richtig",
+     "s": 44.28,
+     "e": 44.37,
+     "score": 0.979
+    }
+   ]
+  },
+  "s15": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 45.68,
+   "end": 48.0,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 45.84,
+     "e": 45.92,
+     "score": 0.143
+    },
+    {
+     "w": "für",
+     "s": 46.32,
+     "e": 46.4,
+     "score": 0.213
+    },
+    {
+     "w": "mehr",
+     "s": 46.56,
+     "e": 46.64,
+     "score": 0.01
+    },
+    {
+     "w": "Wortbilder",
+     "s": 46.88,
+     "e": 47.36,
+     "score": 0.0
+    }
+   ]
+  }
+ },
+ "duration": 49.2
+}

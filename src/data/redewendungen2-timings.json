@@ -1,0 +1,585 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.4,
+   "end": 5.2,
+   "lines": [
+    "s01"
+   ]
+  },
+  {
+   "key": "haus",
+   "word": "der Haussegen hängt schief",
+   "start": 5.2,
+   "end": 17.34,
+   "lines": [
+    "s02",
+    "s03",
+    "s04"
+   ]
+  },
+  {
+   "key": "huhn",
+   "word": "mit jemandem ein Hühnchen zu rupfen haben",
+   "start": 17.34,
+   "end": 30.32,
+   "lines": [
+    "s05",
+    "s06",
+    "s07"
+   ]
+  },
+  {
+   "key": "zaun",
+   "word": "einen Streit vom Zaun brechen",
+   "start": 30.32,
+   "end": 41.7,
+   "lines": [
+    "s08",
+    "s09",
+    "s10"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 41.7,
+   "end": 45.22,
+   "lines": [
+    "s11"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Drei Redewendungen über Streit, bildlich genommen.",
+   "start": 0.4,
+   "end": 4.6,
+   "words": [
+    {
+     "w": "Drei",
+     "s": 0.64,
+     "e": 0.72,
+     "score": 0.06
+    },
+    {
+     "w": "Redewendungen",
+     "s": 1.05,
+     "e": 1.77,
+     "score": 0.512
+    },
+    {
+     "w": "über",
+     "s": 2.1,
+     "e": 2.18,
+     "score": 0.981
+    },
+    {
+     "w": "Streit",
+     "s": 2.26,
+     "e": 2.5,
+     "score": 0.02
+    },
+    {
+     "w": "bildlich",
+     "s": 2.98,
+     "e": 3.31,
+     "score": 0.989
+    },
+    {
+     "w": "genommen",
+     "s": 3.55,
+     "e": 3.71,
+     "score": 0.999
+    }
+   ]
+  },
+  "s02": {
+   "text": "Der Haussegen hängt schief.",
+   "start": 5.2,
+   "end": 7.6,
+   "words": [
+    {
+     "w": "Der",
+     "s": 5.44,
+     "e": 5.52,
+     "score": 0.736
+    },
+    {
+     "w": "Haussegen",
+     "s": 5.76,
+     "e": 6.4,
+     "score": 0.425
+    },
+    {
+     "w": "hängt",
+     "s": 6.64,
+     "e": 6.72,
+     "score": 0.006
+    },
+    {
+     "w": "schief",
+     "s": 6.72,
+     "e": 7.04,
+     "score": 0.049
+    }
+   ]
+  },
+  "s03": {
+   "text": "Bildlich: Ein Schild hängt krumm an der Wand.",
+   "start": 8.1,
+   "end": 11.02,
+   "words": [
+    {
+     "w": "Bildlich",
+     "s": 8.34,
+     "e": 8.75,
+     "score": 0.89
+    },
+    {
+     "w": "Ein",
+     "s": 8.99,
+     "e": 9.07,
+     "score": 0.027
+    },
+    {
+     "w": "Schild",
+     "s": 9.32,
+     "e": 9.48,
+     "score": 0.727
+    },
+    {
+     "w": "hängt",
+     "s": 9.72,
+     "e": 9.8,
+     "score": 0.957
+    },
+    {
+     "w": "krumm",
+     "s": 10.05,
+     "e": 10.21,
+     "score": 0.927
+    },
+    {
+     "w": "an",
+     "s": 10.37,
+     "e": 10.45,
+     "score": 0.997
+    },
+    {
+     "w": "der",
+     "s": 10.53,
+     "e": 10.61,
+     "score": 0.995
+    },
+    {
+     "w": "Wand",
+     "s": 10.7,
+     "e": 10.78,
+     "score": 0.532
+    }
+   ]
+  },
+  "s04": {
+   "text": "Gemeint ist: in der Familie oder Beziehung gibt es Streit.",
+   "start": 11.72,
+   "end": 16.44,
+   "words": [
+    {
+     "w": "Gemeint",
+     "s": 11.96,
+     "e": 12.28,
+     "score": 0.283
+    },
+    {
+     "w": "ist",
+     "s": 12.44,
+     "e": 12.52,
+     "score": 0.998
+    },
+    {
+     "w": "in",
+     "s": 12.92,
+     "e": 13.0,
+     "score": 0.995
+    },
+    {
+     "w": "der",
+     "s": 13.08,
+     "e": 13.16,
+     "score": 0.999
+    },
+    {
+     "w": "Familie",
+     "s": 13.48,
+     "e": 13.56,
+     "score": 0.259
+    },
+    {
+     "w": "oder",
+     "s": 14.28,
+     "e": 14.36,
+     "score": 0.995
+    },
+    {
+     "w": "Beziehung",
+     "s": 14.84,
+     "e": 14.92,
+     "score": 0.089
+    },
+    {
+     "w": "gibt",
+     "s": 15.24,
+     "e": 15.32,
+     "score": 0.997
+    },
+    {
+     "w": "es",
+     "s": 15.48,
+     "e": 15.56,
+     "score": 0.999
+    },
+    {
+     "w": "Streit",
+     "s": 15.72,
+     "e": 15.96,
+     "score": 0.111
+    }
+   ]
+  },
+  "s05": {
+   "text": "Mit jemandem ein Hühnchen zu rupfen haben.",
+   "start": 17.34,
+   "end": 20.46,
+   "words": [
+    {
+     "w": "Mit",
+     "s": 17.5,
+     "e": 17.58,
+     "score": 0.018
+    },
+    {
+     "w": "jemandem",
+     "s": 17.74,
+     "e": 17.82,
+     "score": 0.967
+    },
+    {
+     "w": "ein",
+     "s": 18.46,
+     "e": 18.54,
+     "score": 0.998
+    },
+    {
+     "w": "Hühnchen",
+     "s": 18.7,
+     "e": 19.02,
+     "score": 0.668
+    },
+    {
+     "w": "zu",
+     "s": 19.18,
+     "e": 19.26,
+     "score": 0.993
+    },
+    {
+     "w": "rupfen",
+     "s": 19.42,
+     "e": 19.66,
+     "score": 0.972
+    },
+    {
+     "w": "haben",
+     "s": 19.82,
+     "e": 19.9,
+     "score": 0.994
+    }
+   ]
+  },
+  "s06": {
+   "text": "Bildlich: Jemand rupft ein Huhn.",
+   "start": 20.96,
+   "end": 23.96,
+   "words": [
+    {
+     "w": "Bildlich",
+     "s": 21.12,
+     "e": 21.59,
+     "score": 0.649
+    },
+    {
+     "w": "Jemand",
+     "s": 22.22,
+     "e": 22.54,
+     "score": 0.002
+    },
+    {
+     "w": "rupft",
+     "s": 22.62,
+     "e": 22.93,
+     "score": 0.392
+    },
+    {
+     "w": "ein",
+     "s": 23.09,
+     "e": 23.17,
+     "score": 0.849
+    },
+    {
+     "w": "Huhn",
+     "s": 23.33,
+     "e": 23.49,
+     "score": 0.447
+    }
+   ]
+  },
+  "s07": {
+   "text": "Gemeint ist: wegen einer Sache noch Ärger mit jemandem klären wollen.",
+   "start": 24.66,
+   "end": 29.42,
+   "words": [
+    {
+     "w": "Gemeint",
+     "s": 24.9,
+     "e": 25.22,
+     "score": 0.159
+    },
+    {
+     "w": "ist",
+     "s": 25.37,
+     "e": 25.45,
+     "score": 0.997
+    },
+    {
+     "w": "wegen",
+     "s": 25.77,
+     "e": 25.85,
+     "score": 0.997
+    },
+    {
+     "w": "einer",
+     "s": 26.17,
+     "e": 26.25,
+     "score": 0.997
+    },
+    {
+     "w": "Sache",
+     "s": 26.48,
+     "e": 26.56,
+     "score": 0.169
+    },
+    {
+     "w": "noch",
+     "s": 26.88,
+     "e": 26.96,
+     "score": 0.998
+    },
+    {
+     "w": "Ärger",
+     "s": 27.12,
+     "e": 27.36,
+     "score": 0.346
+    },
+    {
+     "w": "mit",
+     "s": 27.52,
+     "e": 27.6,
+     "score": 0.986
+    },
+    {
+     "w": "jemandem",
+     "s": 27.67,
+     "e": 27.75,
+     "score": 0.973
+    },
+    {
+     "w": "klären",
+     "s": 28.15,
+     "e": 28.55,
+     "score": 0.996
+    },
+    {
+     "w": "wollen",
+     "s": 28.71,
+     "e": 28.79,
+     "score": 0.992
+    }
+   ]
+  },
+  "s08": {
+   "text": "Einen Streit vom Zaun brechen.",
+   "start": 30.32,
+   "end": 32.6,
+   "words": [
+    {
+     "w": "Einen",
+     "s": 30.48,
+     "e": 30.73,
+     "score": 0.265
+    },
+    {
+     "w": "Streit",
+     "s": 30.89,
+     "e": 31.13,
+     "score": 0.306
+    },
+    {
+     "w": "vom",
+     "s": 31.3,
+     "e": 31.38,
+     "score": 0.116
+    },
+    {
+     "w": "Zaun",
+     "s": 31.54,
+     "e": 31.79,
+     "score": 0.729
+    },
+    {
+     "w": "brechen",
+     "s": 31.87,
+     "e": 32.03,
+     "score": 0.668
+    }
+   ]
+  },
+  "s09": {
+   "text": "Bildlich: Man bricht ein Brett vom Zaun.",
+   "start": 33.1,
+   "end": 36.26,
+   "words": [
+    {
+     "w": "Bildlich",
+     "s": 33.34,
+     "e": 33.73,
+     "score": 0.664
+    },
+    {
+     "w": "Man",
+     "s": 34.13,
+     "e": 34.21,
+     "score": 0.007
+    },
+    {
+     "w": "bricht",
+     "s": 34.36,
+     "e": 34.52,
+     "score": 0.999
+    },
+    {
+     "w": "ein",
+     "s": 34.68,
+     "e": 34.76,
+     "score": 0.997
+    },
+    {
+     "w": "Brett",
+     "s": 34.92,
+     "e": 35.23,
+     "score": 0.715
+    },
+    {
+     "w": "vom",
+     "s": 35.39,
+     "e": 35.47,
+     "score": 0.951
+    },
+    {
+     "w": "Zaun",
+     "s": 35.55,
+     "e": 35.71,
+     "score": 0.541
+    }
+   ]
+  },
+  "s10": {
+   "text": "Gemeint ist: ohne echten Grund einen Streit anfangen.",
+   "start": 36.96,
+   "end": 40.8,
+   "words": [
+    {
+     "w": "Gemeint",
+     "s": 37.12,
+     "e": 37.52,
+     "score": 0.071
+    },
+    {
+     "w": "ist",
+     "s": 37.68,
+     "e": 37.76,
+     "score": 0.999
+    },
+    {
+     "w": "ohne",
+     "s": 38.16,
+     "e": 38.24,
+     "score": 0.999
+    },
+    {
+     "w": "echten",
+     "s": 38.48,
+     "e": 38.8,
+     "score": 0.99
+    },
+    {
+     "w": "Grund",
+     "s": 38.96,
+     "e": 39.04,
+     "score": 0.063
+    },
+    {
+     "w": "einen",
+     "s": 39.28,
+     "e": 39.36,
+     "score": 0.997
+    },
+    {
+     "w": "Streit",
+     "s": 39.52,
+     "e": 39.76,
+     "score": 0.03
+    },
+    {
+     "w": "anfangen",
+     "s": 40.24,
+     "e": 40.32,
+     "score": 0.994
+    }
+   ]
+  },
+  "s11": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 41.7,
+   "end": 44.02,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 41.86,
+     "e": 41.94,
+     "score": 0.143
+    },
+    {
+     "w": "für",
+     "s": 42.34,
+     "e": 42.42,
+     "score": 0.213
+    },
+    {
+     "w": "mehr",
+     "s": 42.58,
+     "e": 42.66,
+     "score": 0.01
+    },
+    {
+     "w": "Wortbilder",
+     "s": 42.9,
+     "e": 43.38,
+     "score": 0.0
+    }
+   ]
+  }
+ },
+ "duration": 45.22
+}

@@ -1,0 +1,725 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.4,
+   "end": 2.31,
+   "lines": [
+    "s01"
+   ]
+  },
+  {
+   "key": "loop",
+   "word": null,
+   "start": 2.31,
+   "end": 5.69,
+   "lines": [
+    "s02"
+   ]
+  },
+  {
+   "key": "teelicht",
+   "word": "das Teelicht",
+   "start": 5.69,
+   "end": 8.97,
+   "lines": [
+    "s03"
+   ]
+  },
+  {
+   "key": "windlicht",
+   "word": "das Windlicht",
+   "start": 8.97,
+   "end": 15.5,
+   "lines": [
+    "s04",
+    "s05"
+   ]
+  },
+  {
+   "key": "lichterkette",
+   "word": "die Lichterkette",
+   "start": 15.5,
+   "end": 22.17,
+   "lines": [
+    "s06",
+    "s07"
+   ]
+  },
+  {
+   "key": "lichtermeer",
+   "word": "das Lichtermeer",
+   "start": 22.17,
+   "end": 28.86,
+   "lines": [
+    "s08",
+    "s09"
+   ]
+  },
+  {
+   "key": "twist",
+   "word": "jdn. hinters Licht führen",
+   "start": 28.86,
+   "end": 33.38,
+   "lines": [
+    "s11"
+   ]
+  },
+  {
+   "key": "payoff",
+   "word": "jdm. geht ein Licht auf",
+   "start": 33.38,
+   "end": 39.4,
+   "lines": [
+    "s13",
+    "s14"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 39.4,
+   "end": 45.64,
+   "lines": [
+    "s15",
+    "s16"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Ein Licht hier lügt dich an.",
+   "start": 0.4,
+   "end": 2.06,
+   "words": [
+    {
+     "w": "Ein",
+     "s": 0.4,
+     "e": 0.48,
+     "score": 0.903
+    },
+    {
+     "w": "Licht",
+     "s": 0.48,
+     "e": 0.7,
+     "score": 1.0
+    },
+    {
+     "w": "hier",
+     "s": 0.7,
+     "e": 0.94,
+     "score": 0.982
+    },
+    {
+     "w": "lügt",
+     "s": 0.94,
+     "e": 1.38,
+     "score": 0.999
+    },
+    {
+     "w": "dich",
+     "s": 1.38,
+     "e": 1.54,
+     "score": 0.971
+    },
+    {
+     "w": "an",
+     "s": 1.54,
+     "e": 1.76,
+     "score": 1.0
+    }
+   ]
+  },
+  "s02": {
+   "text": "Welches? Das erfährst du ganz am Ende.",
+   "start": 2.31,
+   "end": 5.39,
+   "words": [
+    {
+     "w": "Welches",
+     "s": 2.31,
+     "e": 2.85,
+     "score": 0.905
+    },
+    {
+     "w": "Das",
+     "s": 2.85,
+     "e": 3.51,
+     "score": 0.998
+    },
+    {
+     "w": "erfährst",
+     "s": 3.51,
+     "e": 4.11,
+     "score": 1.0
+    },
+    {
+     "w": "du",
+     "s": 4.11,
+     "e": 4.23,
+     "score": 0.956
+    },
+    {
+     "w": "ganz",
+     "s": 4.23,
+     "e": 4.49,
+     "score": 1.0
+    },
+    {
+     "w": "am",
+     "s": 4.49,
+     "e": 4.73,
+     "score": 1.0
+    },
+    {
+     "w": "Ende",
+     "s": 4.73,
+     "e": 5.09,
+     "score": 1.0
+    }
+   ]
+  },
+  "s03": {
+   "text": "Es fängt ganz klein an: das Teelicht.",
+   "start": 5.69,
+   "end": 8.67,
+   "words": [
+    {
+     "w": "Es",
+     "s": 5.69,
+     "e": 5.85,
+     "score": 0.972
+    },
+    {
+     "w": "fängt",
+     "s": 5.85,
+     "e": 6.13,
+     "score": 1.0
+    },
+    {
+     "w": "ganz",
+     "s": 6.13,
+     "e": 6.39,
+     "score": 1.0
+    },
+    {
+     "w": "klein",
+     "s": 6.39,
+     "e": 6.75,
+     "score": 1.0
+    },
+    {
+     "w": "an",
+     "s": 6.75,
+     "e": 7.17,
+     "score": 1.0
+    },
+    {
+     "w": "das",
+     "s": 7.27,
+     "e": 7.69,
+     "score": 0.999
+    },
+    {
+     "w": "Teelicht",
+     "s": 7.69,
+     "e": 8.37,
+     "score": 0.956
+    }
+   ]
+  },
+  "s04": {
+   "text": "Dann kommt Wind. Was rettet die Flamme?",
+   "start": 8.97,
+   "end": 11.81,
+   "words": [
+    {
+     "w": "Dann",
+     "s": 8.97,
+     "e": 9.13,
+     "score": 0.968
+    },
+    {
+     "w": "kommt",
+     "s": 9.13,
+     "e": 9.39,
+     "score": 0.999
+    },
+    {
+     "w": "Wind",
+     "s": 9.39,
+     "e": 9.69,
+     "score": 0.997
+    },
+    {
+     "w": "Was",
+     "s": 9.93,
+     "e": 10.45,
+     "score": 0.999
+    },
+    {
+     "w": "rettet",
+     "s": 10.45,
+     "e": 11.01,
+     "score": 0.979
+    },
+    {
+     "w": "die",
+     "s": 11.01,
+     "e": 11.09,
+     "score": 1.0
+    },
+    {
+     "w": "Flamme",
+     "s": 11.09,
+     "e": 11.51,
+     "score": 0.997
+    }
+   ]
+  },
+  "s05": {
+   "text": "Ein Glas drumherum: das Windlicht.",
+   "start": 12.66,
+   "end": 15.2,
+   "words": [
+    {
+     "w": "Ein",
+     "s": 12.66,
+     "e": 12.82,
+     "score": 0.787
+    },
+    {
+     "w": "Glas",
+     "s": 12.82,
+     "e": 13.08,
+     "score": 0.999
+    },
+    {
+     "w": "drumherum,",
+     "s": 13.08,
+     "e": 13.96,
+     "score": 0.965
+    },
+    {
+     "w": "das",
+     "s": 13.98,
+     "e": 14.24,
+     "score": 0.998
+    },
+    {
+     "w": "Windlicht.",
+     "s": 14.24,
+     "e": 14.9,
+     "score": 0.909
+    }
+   ]
+  },
+  "s06": {
+   "text": "Und viele Lichter an einer Schnur?",
+   "start": 15.5,
+   "end": 17.3,
+   "words": [
+    {
+     "w": "Und",
+     "s": 15.5,
+     "e": 15.66,
+     "score": 0.833
+    },
+    {
+     "w": "viele",
+     "s": 15.66,
+     "e": 15.84,
+     "score": 0.978
+    },
+    {
+     "w": "Lichter",
+     "s": 15.84,
+     "e": 16.32,
+     "score": 0.991
+    },
+    {
+     "w": "an",
+     "s": 16.32,
+     "e": 16.4,
+     "score": 0.997
+    },
+    {
+     "w": "einer",
+     "s": 16.4,
+     "e": 16.58,
+     "score": 0.949
+    },
+    {
+     "w": "Schnur",
+     "s": 16.58,
+     "e": 17.18,
+     "score": 0.997
+    }
+   ]
+  },
+  "s07": {
+   "text": "Die Lichterkette. Quer über die ganze Budengasse.",
+   "start": 18.15,
+   "end": 21.87,
+   "words": [
+    {
+     "w": "Die",
+     "s": 18.15,
+     "e": 18.31,
+     "score": 0.422
+    },
+    {
+     "w": "Lichterkette",
+     "s": 18.31,
+     "e": 19.13,
+     "score": 0.998
+    },
+    {
+     "w": "Quer",
+     "s": 19.13,
+     "e": 19.77,
+     "score": 0.948
+    },
+    {
+     "w": "über",
+     "s": 19.77,
+     "e": 20.23,
+     "score": 1.0
+    },
+    {
+     "w": "die",
+     "s": 20.23,
+     "e": 20.45,
+     "score": 1.0
+    },
+    {
+     "w": "ganze",
+     "s": 20.45,
+     "e": 20.79,
+     "score": 0.998
+    },
+    {
+     "w": "Budengasse",
+     "s": 20.79,
+     "e": 21.57,
+     "score": 0.997
+    }
+   ]
+  },
+  "s08": {
+   "text": "Und wenn der ganze Platz leuchtet?",
+   "start": 22.17,
+   "end": 24.27,
+   "words": [
+    {
+     "w": "Und",
+     "s": 22.17,
+     "e": 22.31,
+     "score": 0.462
+    },
+    {
+     "w": "wenn",
+     "s": 22.31,
+     "e": 22.47,
+     "score": 0.998
+    },
+    {
+     "w": "der",
+     "s": 22.47,
+     "e": 22.61,
+     "score": 1.0
+    },
+    {
+     "w": "ganze",
+     "s": 22.61,
+     "e": 22.89,
+     "score": 0.999
+    },
+    {
+     "w": "Platz",
+     "s": 22.89,
+     "e": 23.23,
+     "score": 0.948
+    },
+    {
+     "w": "leuchtet",
+     "s": 23.23,
+     "e": 23.97,
+     "score": 1.0
+    }
+   ]
+  },
+  "s09": {
+   "text": "Von der Brücke aus: ein einziges Lichtermeer.",
+   "start": 25.12,
+   "end": 28.56,
+   "words": [
+    {
+     "w": "Von",
+     "s": 25.12,
+     "e": 25.28,
+     "score": 0.827
+    },
+    {
+     "w": "der",
+     "s": 25.28,
+     "e": 25.4,
+     "score": 1.0
+    },
+    {
+     "w": "Brücke",
+     "s": 25.4,
+     "e": 25.72,
+     "score": 0.999
+    },
+    {
+     "w": "aus",
+     "s": 25.72,
+     "e": 26.0,
+     "score": 1.0
+    },
+    {
+     "w": "ein",
+     "s": 26.0,
+     "e": 26.78,
+     "score": 0.955
+    },
+    {
+     "w": "einziges",
+     "s": 26.78,
+     "e": 27.46,
+     "score": 1.0
+    },
+    {
+     "w": "Lichtermeer",
+     "s": 27.46,
+     "e": 28.26,
+     "score": 0.952
+    }
+   ]
+  },
+  "s11": {
+   "text": "Der Verkäufer hat uns beim Wechselgeld hinters Licht geführt.",
+   "start": 28.86,
+   "end": 32.98,
+   "words": [
+    {
+     "w": "Der",
+     "s": 28.86,
+     "e": 29.02,
+     "score": 0.892
+    },
+    {
+     "w": "Verkäufer",
+     "s": 29.02,
+     "e": 29.86,
+     "score": 1.0
+    },
+    {
+     "w": "hat",
+     "s": 29.86,
+     "e": 30.02,
+     "score": 0.999
+    },
+    {
+     "w": "uns",
+     "s": 30.02,
+     "e": 30.36,
+     "score": 1.0
+    },
+    {
+     "w": "beim",
+     "s": 30.36,
+     "e": 30.64,
+     "score": 0.999
+    },
+    {
+     "w": "Wechselgeld",
+     "s": 30.64,
+     "e": 31.32,
+     "score": 0.97
+    },
+    {
+     "w": "hinters",
+     "s": 31.32,
+     "e": 31.86,
+     "score": 0.974
+    },
+    {
+     "w": "Licht",
+     "s": 31.86,
+     "e": 32.12,
+     "score": 1.0
+    },
+    {
+     "w": "geführt",
+     "s": 32.12,
+     "e": 32.68,
+     "score": 1.0
+    }
+   ]
+  },
+  "s13": {
+   "text": "Das war das Licht, das lügt.",
+   "start": 33.38,
+   "end": 35.84,
+   "words": [
+    {
+     "w": "Das",
+     "s": 33.38,
+     "e": 33.58,
+     "score": 0.895
+    },
+    {
+     "w": "war",
+     "s": 33.58,
+     "e": 33.82,
+     "score": 0.999
+    },
+    {
+     "w": "das",
+     "s": 33.82,
+     "e": 34.06,
+     "score": 0.998
+    },
+    {
+     "w": "Licht",
+     "s": 34.06,
+     "e": 34.4,
+     "score": 0.999
+    },
+    {
+     "w": "das",
+     "s": 34.58,
+     "e": 35.04,
+     "score": 0.998
+    },
+    {
+     "w": "lügt",
+     "s": 35.04,
+     "e": 35.54,
+     "score": 0.993
+    }
+   ]
+  },
+  "s14": {
+   "text": "Na? Geht dir jetzt ein Licht auf?",
+   "start": 36.14,
+   "end": 38.9,
+   "words": [
+    {
+     "w": "Na",
+     "s": 36.14,
+     "e": 36.4,
+     "score": 0.949
+    },
+    {
+     "w": "Geht",
+     "s": 36.64,
+     "e": 37.3,
+     "score": 0.998
+    },
+    {
+     "w": "dir",
+     "s": 37.3,
+     "e": 37.5,
+     "score": 0.875
+    },
+    {
+     "w": "jetzt",
+     "s": 37.5,
+     "e": 37.74,
+     "score": 0.997
+    },
+    {
+     "w": "ein",
+     "s": 37.74,
+     "e": 38.0,
+     "score": 0.999
+    },
+    {
+     "w": "Licht",
+     "s": 38.0,
+     "e": 38.26,
+     "score": 0.999
+    },
+    {
+     "w": "auf",
+     "s": 38.26,
+     "e": 38.6,
+     "score": 1.0
+    }
+   ]
+  },
+  "s15": {
+   "text": "Morgen: mehr Wörter vom Glühweinstand.",
+   "start": 39.4,
+   "end": 42.44,
+   "words": [
+    {
+     "w": "Morgen",
+     "s": 39.4,
+     "e": 39.82,
+     "score": 0.911
+    },
+    {
+     "w": "mehr",
+     "s": 39.82,
+     "e": 40.52,
+     "score": 0.615
+    },
+    {
+     "w": "Wörter",
+     "s": 40.52,
+     "e": 41.1,
+     "score": 0.999
+    },
+    {
+     "w": "vom",
+     "s": 41.1,
+     "e": 41.3,
+     "score": 0.955
+    },
+    {
+     "w": "Glühweinstand",
+     "s": 41.3,
+     "e": 42.14,
+     "score": 0.99
+    }
+   ]
+  },
+  "s16": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 42.64,
+   "end": 44.74,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 42.64,
+     "e": 42.96,
+     "score": 0.994
+    },
+    {
+     "w": "für",
+     "s": 42.96,
+     "e": 43.18,
+     "score": 0.996
+    },
+    {
+     "w": "mehr",
+     "s": 43.18,
+     "e": 43.46,
+     "score": 0.852
+    },
+    {
+     "w": "Wortbilder",
+     "s": 43.46,
+     "e": 44.44,
+     "score": 0.999
+    }
+   ]
+  }
+ },
+ "duration": 45.64
+}

@@ -1,0 +1,769 @@
+{
+ "scenes": [
+  {
+   "key": "hook",
+   "word": null,
+   "start": 0.4,
+   "end": 7.2,
+   "lines": [
+    "s01",
+    "s02"
+   ]
+  },
+  {
+   "key": "eis",
+   "word": "das Eis brechen",
+   "start": 7.2,
+   "end": 13.77,
+   "lines": [
+    "s03",
+    "s04"
+   ]
+  },
+  {
+   "key": "fuesse",
+   "word": "kalte Füße bekommen",
+   "start": 13.77,
+   "end": 20.38,
+   "lines": [
+    "s05",
+    "s06"
+   ]
+  },
+  {
+   "key": "eislegen",
+   "word": "etw. auf Eis legen",
+   "start": 20.38,
+   "end": 26.51,
+   "lines": [
+    "s07",
+    "s08"
+   ]
+  },
+  {
+   "key": "glatteis",
+   "word": "jdn. aufs Glatteis führen",
+   "start": 26.51,
+   "end": 34.45,
+   "lines": [
+    "s09",
+    "s10"
+   ]
+  },
+  {
+   "key": "schnee",
+   "word": "Schnee von gestern",
+   "start": 34.45,
+   "end": 42.68,
+   "lines": [
+    "s11",
+    "s12"
+   ]
+  },
+  {
+   "key": "outro",
+   "word": null,
+   "start": 42.68,
+   "end": 49.16,
+   "lines": [
+    "s13",
+    "s15"
+   ]
+  }
+ ],
+ "lines": {
+  "s01": {
+   "text": "Wie wird ein Lebkuchenmann zum Eisblock?",
+   "start": 0.4,
+   "end": 3.26,
+   "words": [
+    {
+     "w": "Wie",
+     "s": 0.4,
+     "e": 0.54,
+     "score": 0.647
+    },
+    {
+     "w": "wird",
+     "s": 0.54,
+     "e": 0.84,
+     "score": 0.988
+    },
+    {
+     "w": "ein",
+     "s": 0.84,
+     "e": 1.2,
+     "score": 0.999
+    },
+    {
+     "w": "Lebkuchenmann",
+     "s": 1.2,
+     "e": 2.16,
+     "score": 0.943
+    },
+    {
+     "w": "zum",
+     "s": 2.16,
+     "e": 2.4,
+     "score": 1.0
+    },
+    {
+     "w": "Eisblock",
+     "s": 2.4,
+     "e": 2.96,
+     "score": 0.978
+    }
+   ]
+  },
+  "s02": {
+   "text": "Fünf Redewendungen. Die letzte taut ihn wieder auf.",
+   "start": 3.41,
+   "end": 6.95,
+   "words": [
+    {
+     "w": "Fünf",
+     "s": 3.41,
+     "e": 3.79,
+     "score": 0.92
+    },
+    {
+     "w": "Redewendungen",
+     "s": 3.79,
+     "e": 4.59,
+     "score": 0.999
+    },
+    {
+     "w": "Die",
+     "s": 4.63,
+     "e": 5.25,
+     "score": 1.0
+    },
+    {
+     "w": "letzte",
+     "s": 5.25,
+     "e": 5.61,
+     "score": 0.999
+    },
+    {
+     "w": "taut",
+     "s": 5.61,
+     "e": 6.03,
+     "score": 0.991
+    },
+    {
+     "w": "ihn",
+     "s": 6.03,
+     "e": 6.15,
+     "score": 0.999
+    },
+    {
+     "w": "wieder",
+     "s": 6.15,
+     "e": 6.37,
+     "score": 1.0
+    },
+    {
+     "w": "auf",
+     "s": 6.37,
+     "e": 6.65,
+     "score": 1.0
+    }
+   ]
+  },
+  "s03": {
+   "text": "Erstens: das Eis brechen.",
+   "start": 7.2,
+   "end": 8.94,
+   "words": [
+    {
+     "w": "Erstens",
+     "s": 7.2,
+     "e": 7.68,
+     "score": 0.933
+    },
+    {
+     "w": "das",
+     "s": 7.68,
+     "e": 7.82,
+     "score": 0.967
+    },
+    {
+     "w": "Eis",
+     "s": 7.82,
+     "e": 8.1,
+     "score": 1.0
+    },
+    {
+     "w": "brechen",
+     "s": 8.1,
+     "e": 8.64,
+     "score": 0.897
+    }
+   ]
+  },
+  "s04": {
+   "text": "Ein gemeinsamer Glühwein ist gut, um das Eis zu brechen.",
+   "start": 9.54,
+   "end": 13.62,
+   "words": [
+    {
+     "w": "Ein",
+     "s": 9.54,
+     "e": 9.68,
+     "score": 0.965
+    },
+    {
+     "w": "gemeinsamer",
+     "s": 9.68,
+     "e": 10.44,
+     "score": 0.999
+    },
+    {
+     "w": "Glühwein",
+     "s": 10.44,
+     "e": 11.12,
+     "score": 1.0
+    },
+    {
+     "w": "ist",
+     "s": 11.12,
+     "e": 11.26,
+     "score": 1.0
+    },
+    {
+     "w": "gut",
+     "s": 11.26,
+     "e": 11.58,
+     "score": 1.0
+    },
+    {
+     "w": "um",
+     "s": 11.78,
+     "e": 12.06,
+     "score": 1.0
+    },
+    {
+     "w": "das",
+     "s": 12.06,
+     "e": 12.2,
+     "score": 1.0
+    },
+    {
+     "w": "Eis",
+     "s": 12.2,
+     "e": 12.56,
+     "score": 1.0
+    },
+    {
+     "w": "zu",
+     "s": 12.56,
+     "e": 12.76,
+     "score": 1.0
+    },
+    {
+     "w": "brechen",
+     "s": 12.76,
+     "e": 13.32,
+     "score": 1.0
+    }
+   ]
+  },
+  "s05": {
+   "text": "Dann: kalte Füße bekommen.",
+   "start": 13.77,
+   "end": 15.97,
+   "words": [
+    {
+     "w": "Dann",
+     "s": 13.77,
+     "e": 13.95,
+     "score": 0.8
+    },
+    {
+     "w": "kalte",
+     "s": 13.95,
+     "e": 15.05,
+     "score": 0.988
+    },
+    {
+     "w": "Füße",
+     "s": 15.05,
+     "e": 15.41,
+     "score": 1.0
+    },
+    {
+     "w": "bekommen",
+     "s": 15.41,
+     "e": 15.67,
+     "score": 1.0
+    }
+   ]
+  },
+  "s06": {
+   "text": "Vor dem Riesenrad hat er plötzlich kalte Füße bekommen.",
+   "start": 16.57,
+   "end": 20.23,
+   "words": [
+    {
+     "w": "Vor",
+     "s": 16.57,
+     "e": 16.73,
+     "score": 0.944
+    },
+    {
+     "w": "dem",
+     "s": 16.73,
+     "e": 16.85,
+     "score": 0.999
+    },
+    {
+     "w": "Riesenrad",
+     "s": 16.85,
+     "e": 17.55,
+     "score": 0.975
+    },
+    {
+     "w": "hat",
+     "s": 17.55,
+     "e": 17.83,
+     "score": 0.988
+    },
+    {
+     "w": "er",
+     "s": 17.83,
+     "e": 18.07,
+     "score": 0.998
+    },
+    {
+     "w": "plötzlich",
+     "s": 18.07,
+     "e": 18.47,
+     "score": 0.999
+    },
+    {
+     "w": "kalte",
+     "s": 18.47,
+     "e": 19.31,
+     "score": 1.0
+    },
+    {
+     "w": "Füße",
+     "s": 19.31,
+     "e": 19.65,
+     "score": 0.993
+    },
+    {
+     "w": "bekommen",
+     "s": 19.65,
+     "e": 19.93,
+     "score": 1.0
+    }
+   ]
+  },
+  "s07": {
+   "text": "Schlimmer: etwas auf Eis legen.",
+   "start": 20.38,
+   "end": 22.72,
+   "words": [
+    {
+     "w": "Schlimmer",
+     "s": 20.38,
+     "e": 20.94,
+     "score": 0.958
+    },
+    {
+     "w": "etwas",
+     "s": 20.94,
+     "e": 21.38,
+     "score": 0.995
+    },
+    {
+     "w": "auf",
+     "s": 21.38,
+     "e": 21.7,
+     "score": 1.0
+    },
+    {
+     "w": "Eis",
+     "s": 21.7,
+     "e": 22.02,
+     "score": 1.0
+    },
+    {
+     "w": "legen",
+     "s": 22.02,
+     "e": 22.42,
+     "score": 0.999
+    }
+   ]
+  },
+  "s08": {
+   "text": "Die Gehaltsdebatte legen wir bis nach dem Fest auf Eis.",
+   "start": 23.32,
+   "end": 26.36,
+   "words": [
+    {
+     "w": "Die",
+     "s": 23.32,
+     "e": 23.4,
+     "score": 0.957
+    },
+    {
+     "w": "Gehaltsdebatte",
+     "s": 23.4,
+     "e": 24.22,
+     "score": 0.994
+    },
+    {
+     "w": "legen",
+     "s": 24.22,
+     "e": 24.4,
+     "score": 1.0
+    },
+    {
+     "w": "wir",
+     "s": 24.4,
+     "e": 24.68,
+     "score": 1.0
+    },
+    {
+     "w": "bis",
+     "s": 24.68,
+     "e": 24.84,
+     "score": 1.0
+    },
+    {
+     "w": "nach",
+     "s": 24.84,
+     "e": 25.06,
+     "score": 1.0
+    },
+    {
+     "w": "dem",
+     "s": 25.06,
+     "e": 25.26,
+     "score": 1.0
+    },
+    {
+     "w": "Fest",
+     "s": 25.26,
+     "e": 25.5,
+     "score": 0.995
+    },
+    {
+     "w": "auf",
+     "s": 25.5,
+     "e": 25.76,
+     "score": 0.999
+    },
+    {
+     "w": "Eis",
+     "s": 25.76,
+     "e": 26.06,
+     "score": 0.999
+    }
+   ]
+  },
+  "s09": {
+   "text": "Und jetzt: aufs Glatteis führen.",
+   "start": 26.51,
+   "end": 28.73,
+   "words": [
+    {
+     "w": "Und",
+     "s": 26.51,
+     "e": 26.65,
+     "score": 0.85
+    },
+    {
+     "w": "jetzt",
+     "s": 26.65,
+     "e": 26.91,
+     "score": 1.0
+    },
+    {
+     "w": "aufs",
+     "s": 26.91,
+     "e": 27.71,
+     "score": 0.983
+    },
+    {
+     "w": "Glatteis",
+     "s": 27.71,
+     "e": 28.17,
+     "score": 0.997
+    },
+    {
+     "w": "führen",
+     "s": 28.17,
+     "e": 28.43,
+     "score": 1.0
+    }
+   ]
+  },
+  "s10": {
+   "text": "Der Händler wollte mich aufs Glatteis führen, aber ich habe nachgerechnet.",
+   "start": 29.43,
+   "end": 34.25,
+   "words": [
+    {
+     "w": "Der",
+     "s": 29.43,
+     "e": 29.55,
+     "score": 0.983
+    },
+    {
+     "w": "Händler",
+     "s": 29.55,
+     "e": 30.05,
+     "score": 1.0
+    },
+    {
+     "w": "wollte",
+     "s": 30.05,
+     "e": 30.33,
+     "score": 0.999
+    },
+    {
+     "w": "mich",
+     "s": 30.33,
+     "e": 30.61,
+     "score": 1.0
+    },
+    {
+     "w": "aufs",
+     "s": 30.61,
+     "e": 30.95,
+     "score": 0.995
+    },
+    {
+     "w": "Glatteis",
+     "s": 30.95,
+     "e": 31.45,
+     "score": 0.997
+    },
+    {
+     "w": "führen",
+     "s": 31.45,
+     "e": 31.79,
+     "score": 1.0
+    },
+    {
+     "w": "aber",
+     "s": 32.05,
+     "e": 32.59,
+     "score": 1.0
+    },
+    {
+     "w": "ich",
+     "s": 32.59,
+     "e": 32.81,
+     "score": 1.0
+    },
+    {
+     "w": "habe",
+     "s": 32.81,
+     "e": 32.99,
+     "score": 1.0
+    },
+    {
+     "w": "nachgerechnet",
+     "s": 32.99,
+     "e": 33.95,
+     "score": 1.0
+    }
+   ]
+  },
+  "s11": {
+   "text": "Und der Eisblock? Schnee von gestern.",
+   "start": 34.45,
+   "end": 37.41,
+   "words": [
+    {
+     "w": "Und",
+     "s": 34.45,
+     "e": 34.61,
+     "score": 0.553
+    },
+    {
+     "w": "der",
+     "s": 34.61,
+     "e": 34.83,
+     "score": 0.999
+    },
+    {
+     "w": "Eisblock",
+     "s": 34.83,
+     "e": 35.43,
+     "score": 0.998
+    },
+    {
+     "w": "Schnee",
+     "s": 35.63,
+     "e": 36.39,
+     "score": 1.0
+    },
+    {
+     "w": "von",
+     "s": 36.39,
+     "e": 36.43,
+     "score": 1.0
+    },
+    {
+     "w": "gestern",
+     "s": 36.43,
+     "e": 37.11,
+     "score": 0.996
+    }
+   ]
+  },
+  "s12": {
+   "text": "Der Streit um die Weihnachtsfeier? Das ist Schnee von gestern.",
+   "start": 38.01,
+   "end": 42.53,
+   "words": [
+    {
+     "w": "Der",
+     "s": 38.01,
+     "e": 38.19,
+     "score": 0.95
+    },
+    {
+     "w": "Streit",
+     "s": 38.19,
+     "e": 38.91,
+     "score": 1.0
+    },
+    {
+     "w": "um",
+     "s": 38.91,
+     "e": 39.01,
+     "score": 1.0
+    },
+    {
+     "w": "die",
+     "s": 39.01,
+     "e": 39.13,
+     "score": 1.0
+    },
+    {
+     "w": "Weihnachtsfeier",
+     "s": 39.13,
+     "e": 40.17,
+     "score": 1.0
+    },
+    {
+     "w": "Das",
+     "s": 40.17,
+     "e": 40.61,
+     "score": 0.997
+    },
+    {
+     "w": "ist",
+     "s": 40.61,
+     "e": 40.95,
+     "score": 1.0
+    },
+    {
+     "w": "Schnee",
+     "s": 40.95,
+     "e": 41.47,
+     "score": 1.0
+    },
+    {
+     "w": "von",
+     "s": 41.47,
+     "e": 41.57,
+     "score": 1.0
+    },
+    {
+     "w": "gestern",
+     "s": 41.57,
+     "e": 42.23,
+     "score": 1.0
+    }
+   ]
+  },
+  "s13": {
+   "text": "Aufgetaut! Morgen gibt es mehr vom Weihnachtsmarkt.",
+   "start": 42.68,
+   "end": 46.62,
+   "words": [
+    {
+     "w": "Aufgetaut",
+     "s": 42.68,
+     "e": 43.4,
+     "score": 0.914
+    },
+    {
+     "w": "Morgen",
+     "s": 43.52,
+     "e": 44.18,
+     "score": 0.952
+    },
+    {
+     "w": "gibt",
+     "s": 44.18,
+     "e": 44.54,
+     "score": 1.0
+    },
+    {
+     "w": "es",
+     "s": 44.54,
+     "e": 44.84,
+     "score": 1.0
+    },
+    {
+     "w": "mehr",
+     "s": 44.84,
+     "e": 45.08,
+     "score": 0.973
+    },
+    {
+     "w": "vom",
+     "s": 45.08,
+     "e": 45.38,
+     "score": 1.0
+    },
+    {
+     "w": "Weihnachtsmarkt",
+     "s": 45.38,
+     "e": 46.32,
+     "score": 1.0
+    }
+   ]
+  },
+  "s15": {
+   "text": "Folge für mehr Wortbilder!",
+   "start": 46.82,
+   "end": 48.86,
+   "words": [
+    {
+     "w": "Folge",
+     "s": 46.82,
+     "e": 47.14,
+     "score": 0.994
+    },
+    {
+     "w": "für",
+     "s": 47.14,
+     "e": 47.36,
+     "score": 0.995
+    },
+    {
+     "w": "mehr",
+     "s": 47.36,
+     "e": 47.64,
+     "score": 0.85
+    },
+    {
+     "w": "Wortbilder",
+     "s": 47.64,
+     "e": 48.56,
+     "score": 0.999
+    }
+   ]
+  }
+ },
+ "duration": 49.16
+}
